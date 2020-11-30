@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:catCFDI="http://www.sat.gob.mx/sitio_internet/cfd/catalogos" xmlns:catPagos="http://www.sat.gob.mx/sitio_internet/cfd/catalogos/Pagos" xmlns:tdCFDI="http://www.sat.gob.mx/sitio_internet/cfd/tipoDatos/tdCFDI" xmlns:empresa="http://b1-soft.com/addenda/empresa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="MIIFzDCCA7SgAwIBAgIUMjAwMDEwMDAwMDAzMDAwMjI3NjMwDQYJKoZIhvcNAQELBQAwggFmMSAwHgYDVQQDDBdBLkMuIDIgZGUgcHJ1ZWJhcyg0MDk2KTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSkwJwYJKoZIhvcNAQkBFhphc2lzbmV0QHBydWViYXMuc2F0LmdvYi5teDEmMCQGA1UECQwdQXYuIEhpZGFsZ28gNzcsIENvbC4gR3VlcnJlcm8xDjAMBgNVBBEMBTA2MzAwMQswCQYDVQQGEwJNWDEZMBcGA1UECAwQRGlzdHJpdG8gRmVkZXJhbDESMBAGA1UEBwwJQ295b2Fjw6FuMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxITAfBgkqhkiG9w0BCQIMElJlc3BvbnNhYmxlOiBBQ0RNQTAeFw0xNjEwMjEyMDU0MDFaFw0yMDEwMjEyMDU0MDFaMIG4MRwwGgYDVQQDExNJTk1PQiBFRE1BIFNBIERFIENWMRwwGgYDVQQpExNJTk1PQiBFRE1BIFNBIERFIENWMRwwGgYDVQQKExNJTk1PQiBFRE1BIFNBIERFIENWMSUwIwYDVQQtExxUTUU5NjA3MDlMUjIgLyBIRUdUNzYxMDAzNFMyMR4wHAYDVQQFExUgLyBIRUdUNzYxMDAzTURGUk5OMDkxFTATBgNVBAsUDFBydWViYXNfQ0ZESTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJgqZ+ezJyeJXACMK8ehFp64ecAl8jfYKB4xMJy0RRb+qXKRewxtLojiTFECWdCx283tEkdHUj8bLzsCfFAMnsP2G4CS2aE2/1LLCHoZpdImaasLX1YJL2bUzxKQKi+RlL63M49yyfvGBjEgG7f6TMwVSUSbgDFpYAFHqx4LK+p2GVHuUUzoiIm8xRYaW1YPMa457be5W8wsjw0nGRLfo8hRIjPHedkwtcqYPj57xsPXMfxWP45vOlW7GuLkMq/ECccHxJiPitiThcDFKlf/mAR0kaux9LTffvWilA2uQAlyVyNVjqfdpvDdq4ycTaoIMYKrv/9R31dQ0AmdXT8cfbcCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQELBQADggIBAF5kwvyBUp7Ad99DktzEhrJwnMQyhA79sVc4Ns2SpLON/cV244ZnG5hgXk2awKbHEiSj/ke7EhgEpGS818ERsj7eW/wRgugBZraVn48GOn6qX0uV9EjwWEGK5uT6IDN25igeXxVJHP3hn40fX2BPqsaqRP49YMxcOWD7mhWRh2E6BnoKYjgHVJbavUN6pjCBLmy4hKwfitbjqtUiiWOmBDvvmLFpEGXG8OXn2xladBUkfC4sfgMBpVZVuEV7RqAgCSCZ2xo6UEyd4KKpTjbdp0Tj5gw+NmiovAZHwU/NPRojN95f/ibj7268LBr2DcO5rlmr7szwJ3dtwu86N7HkUxW3vo3qGHTVK2HRBArda9VN4pEyIL0Qt46ci5rFYXB2cCWU8XAh8gaZnxJoNTSY4A4yMJG9UfM/2rHC+YvOouIZ2kJZ2h+SwKOYGJOX749P/QeF4Z/L/ODs3E08bV7IQna1ZHmd6ydYhZVpheMgNoNnIG6jdzfyuo8NZAIIW/JGmPTANPCwTSHqBY1lmnp/oZNrkxGWtGhbltRfBoFQfTqCZALm6fsVeQqHQ6a7W45FJ2RD1nltPSdniMo3Iz/t4eHCjFvM3aORvA9oJEPr5ZzzBV2fQOXkyS8QdsSVb5ZmJG+FqZKKlsiaX6xhqK6gqTLyJN+7/yr9T/ZZ4M7VrRoL" CondicionesDePago="VENCIMIENTO 20 DÍAS" Fecha="2018-03-05T17:08:30" Folio="20925" FormaPago="99" LugarExpedicion="04500" MetodoPago="PPD" Moneda="MXN" NoCertificado="00001000000403955669" Sello="ZL5FIAB4kIIEYonjk4+4/8Qwy2XaA7kVVsPwhgFUpR1F2griD9valOuekAkiWAu/Ac81Q/OUKMt8nWkp9DQxN0Aj/p3oc1z6TMVbjxiQiKVRHp8gMTDndFNLVeSEYx/eDetGgj/0NahfzYeg6pSJ7wPc9E6c+i/LihdLePdWsDZRGi5HwSNIaZs1T0HGTekX/12RzHWY6T3bJWujPu713oCjugH7HUbJLryyaRgi1JLX4c+DBbsqdl+/QeG2Dupkee4ImhKuGvfeUMQU/sOwicP0uLhXpSU6eolurKFtvB4F1tvb32o0uBq+4MRzIZnEZ7aj3EIHB2tiJRrRkbqHkQ==" Serie="FA" SubTotal="1875626.88" TipoCambio="1" TipoDeComprobante="I" Total="2175727.16" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+	<cfdi:Emisor Nombre="Nombre de Emisor" RegimenFiscal="601" Rfc="TME960709LR2"/>
+	<cfdi:Receptor Nombre="Nombre de Receptor" Rfc="AAA010101AAA" UsoCFDI="P01"/>
+	<cfdi:Conceptos>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="Laparoscopía diagnóstica adulto." Importe="3029.74" NoIdentificacion="10.06.026" Unidad="N/A" ValorUnitario="3029.74">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="3029.74" Importe="484.76" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="Plastía inguinal por laparoscopía con prótesis." Importe="9946.74" NoIdentificacion="10.06.044" Unidad="N/A" ValorUnitario="9946.74">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="9946.74" Importe="1591.48" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="4.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="Cirugía de hiato esofágico adulto." Importe="20944.76" NoIdentificacion="10.06.004" Unidad="N/A" ValorUnitario="5236.19">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="20944.76" Importe="3351.16" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="4.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="Bypass gástrico." Importe="125575.68" NoIdentificacion="10.06.003" Unidad="N/A" ValorUnitario="31393.92">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="125575.68" Importe="20092.11" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="2.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="Manga gástrica." Importe="52748.28" NoIdentificacion="10.06.032" Unidad="N/A" ValorUnitario="26374.14">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="52748.28" Importe="8439.72" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="15.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="Nefrectomía adulto." Importe="179336.40" NoIdentificacion="10.06.035" Unidad="N/A" ValorUnitario="11955.76">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="179336.40" Importe="28693.82" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="4.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="Prostatectomía laparoscópica." Importe="31597.44" NoIdentificacion="10.06.047" Unidad="N/A" ValorUnitario="7899.36">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="31597.44" Importe="5055.59" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="23.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="Colecistectomía laparoscópica adulto." Importe="72317.98" NoIdentificacion="10.06.010" Unidad="N/A" ValorUnitario="3144.26">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="72317.98" Importe="11570.88" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="48.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="Cistoscopía adulto." Importe="91668.96" NoIdentificacion="10.04.001" Unidad="N/A" ValorUnitario="1909.77">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="91668.96" Importe="14667.03" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="12.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="Resección transuretral de próstata/vejiga RTUP/RTUV/RTUC." Importe="43305.00" NoIdentificacion="10.04.011" Unidad="N/A" ValorUnitario="3608.75">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="43305.00" Importe="6928.80" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="6.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="Litotricia percutánea." Importe="58904.88" NoIdentificacion="10.04.016" Unidad="N/A" ValorUnitario="9817.48">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="58904.88" Importe="9424.78" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="2.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="Litotricia ureteral rígida adulto." Importe="15379.26" NoIdentificacion="10.04.018" Unidad="N/A" ValorUnitario="7689.63">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="15379.26" Importe="2460.68" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="Litotricia vesical adulto." Importe="3905.06" NoIdentificacion="10.04.019" Unidad="N/A" ValorUnitario="3905.06">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="3905.06" Importe="624.81" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="20.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="Cirugía funcional endoscópica de nariz, senos paranasales y estructuras anexas adulto." Importe="311939.00" NoIdentificacion="10.02.003" Unidad="N/A" ValorUnitario="15596.95">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="311939.00" Importe="49910.24" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="Resección de quiste renal laparoscópico adulto." Importe="5179.51" NoIdentificacion="10.06.050" Unidad="N/A" ValorUnitario="5179.51">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="5179.51" Importe="828.72" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="10.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="Paquete de clips para cirugía laparoscópica, de titánio, estéril desechable, tamaños: mediano ó mediano/largo." Importe="1391.40" NoIdentificacion="10.06.911" Unidad="PZA" ValorUnitario="139.14">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1391.40" Importe="222.62" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="2.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="Cirugía laparoscópica de órgano sólido abdominal adulto." Importe="10117.08" NoIdentificacion="10.06.055" Unidad="N/A" ValorUnitario="5058.54">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="10117.08" Importe="1618.73" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="Colectomía no asistida." Importe="28718.75" NoIdentificacion="10.06.013" Unidad="N/A" ValorUnitario="28718.75">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="28718.75" Importe="4595.00" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="Laparoscopía con resección del tubo digestivo adulto." Importe="22572.97" NoIdentificacion="10.06.056" Unidad="N/A" ValorUnitario="22572.97">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="22572.97" Importe="3611.68" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="34.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="Litotricia ureteral flexible adulto (láser)." Importe="465047.58" NoIdentificacion="10.04.020" Unidad="N/A" ValorUnitario="13677.87">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="465047.58" Importe="74407.61" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="4.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="Aguja de acceso percutáneo." Importe="1834.52" NoIdentificacion="10.04.921" Unidad="PZA" ValorUnitario="458.63">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1834.52" Importe="293.52" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="4.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="Bolsa para recolección de orina, elaborada a base de polivinilo con graduaciones cada 100 ml. y capacidad de 2000 ml., sistema cerrado, con válvula antirreflujo." Importe="272.04" NoIdentificacion="10.04.908" Unidad="PZA" ValorUnitario="68.01">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="272.04" Importe="43.53" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="Camisa de acceso ureteral de doble lumen, de 35 cm de longitud." Importe="2983.56" NoIdentificacion="10.04.913" Unidad="PZA" ValorUnitario="2983.56">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="2983.56" Importe="477.37" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="27.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="Canastilla de Dormia de nitinol de 1.8 a 3 fr." Importe="72635.94" NoIdentificacion="10.04.916" Unidad="PZA" ValorUnitario="2690.22">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="72635.94" Importe="11621.75" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="Canastilla de dormia de nitinol de 3 a 4.5 fr. x 65 a 90 cm., de longitud, diámetro de 1 a 2 cm." Importe="2790.20" NoIdentificacion="10.04.922" Unidad="PZA" ValorUnitario="2790.20">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="2790.20" Importe="446.43" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="12.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="Canastilla de dormia de nitinol de 3 a 4.5 fr. x 65 a 90 cm., de longitud, diámetro de 1 a 2 cm." Importe="33482.40" NoIdentificacion="10.04.915" Unidad="PZA" ValorUnitario="2790.20">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="33482.40" Importe="5357.18" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="41.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="Clip vascular absorbible mediano/largo ó largo." Importe="27961.59" NoIdentificacion="10.06.907" Unidad="PZA" ValorUnitario="681.99">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="27961.59" Importe="4473.85" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="Dilatador ureteral de balón, hidráulico de 6 fr. x 10 cm, incluye sistema de inflado." Importe="4298.98" NoIdentificacion="10.04.912" Unidad="PZA" ValorUnitario="4298.98">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="4298.98" Importe="687.84" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="3.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="Engrapadora circular 29 a 33 mm., con capuchón." Importe="24692.61" NoIdentificacion="10.06.908" Unidad="PZA" ValorUnitario="8230.87">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="24692.61" Importe="3950.82" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="12.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="Guía de alambre de nitinol de 0.035&quot; a 0.038”, 145 a 150 cm." Importe="9384.48" NoIdentificacion="10.04.920" Unidad="PZA" ValorUnitario="782.04">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="9384.48" Importe="1501.52" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="Guía extrarígida de alambre de 0.035&quot; a 0.038”, 145 a 150 cm." Importe="778.32" NoIdentificacion="10.04.914" Unidad="PZA" ValorUnitario="778.32">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="778.32" Importe="124.53" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="41.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="Set o equipo de catéteres ureterales doble &quot;j&quot;, radiopaco, consta de: guía metálica de alambre afinado en espiral, longitud de 24 a 26 cm ; catéter ureteral de poliuretano 4.7 fr. ó 5fr ó 6fr ó 7fr , longitud de 70 cm; posicionador de vinil de 4.7 fr. ó 5" Importe="86987.65" NoIdentificacion="10.04.906" Unidad="PZA" ValorUnitario="2121.65">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="86987.65" Importe="13918.02" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="18.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="Trócar con balón dilatador para espacio retroperitoneal." Importe="53898.12" NoIdentificacion="10.06.913" Unidad="PZA" ValorUnitario="2994.34">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="53898.12" Importe="8623.70" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos TotalImpuestosRetenidos="0.00" TotalImpuestosTrasladados="300100.28">
+		<cfdi:Traslados>
+			<cfdi:Traslado Importe="300100.28" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/timbrefiscaldigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="A77E412A-D524-4340-9A26-C121D76E07B7" FechaTimbrado="2018-03-05T17:11:11" RfcProvCertif="STB080508339" SelloCFD="ZL5FIAB4kIIEYonjk4+4/8Qwy2XaA7kVVsPwhgFUpR1F2griD9valOuekAkiWAu/Ac81Q/OUKMt8nWkp9DQxN0Aj/p3oc1z6TMVbjxiQiKVRHp8gMTDndFNLVeSEYx/eDetGgj/0NahfzYeg6pSJ7wPc9E6c+i/LihdLePdWsDZRGi5HwSNIaZs1T0HGTekX/12RzHWY6T3bJWujPu713oCjugH7HUbJLryyaRgi1JLX4c+DBbsqdl+/QeG2Dupkee4ImhKuGvfeUMQU/sOwicP0uLhXpSU6eolurKFtvB4F1tvb32o0uBq+4MRzIZnEZ7aj3EIHB2tiJRrRkbqHkQ==" SelloSAT="PbcVftK//yrpdD4wUWfjvRjX4T5GMURehIgC3p3UXaV3q/ISq0NsubRTdtlk/A8H7ruL+kfej0cmGGFrxR8CJb7NnE8gZH3jGDanC57uN38PTqNCGwU3FgfKCEj3l+mBsb6TxiLgtNzPxw5uDKBX5cpnfqvfJfAVjvEWgtZgvW7+uVe03cZWIot+IOwxkKR0qyIvFM0eCyyzSLKYkuISRhPlcwiphBbPNzsdJJz9hMvpXcpbmtkFx8MtHOeFhFGto9OTwjRVF/MM9O36Fm+A2MZnzj/olUOXAQDEfKJ5jBOabxAuovwWhoUH4DBvgkoj5KK1mKsTVuKjIK3btrfftA==" NoCertificadoSAT="00001000000404341938" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/></cfdi:Complemento><cfdi:Addenda>
+		<empresa:ADENDAS>
+			<empresa:PACIENTE VIT1="0000752806" VIT12="Esta factura equivale a 358 procedimientos quirúrgicos" VIT2="0000497206" VIT27="0090044936" VIT3=" PROCEDIMIENTOS CORRESPONDIENTES DEL 26 DE ENERO AL 25 DE FEBRERO DE 2018" VIT31="BOULEVARD ABCABC ABCA ABCABCAB , COL. ABCABCAB ABC ABCABCAB AB ABC ABCAB , 11560 , , CIUDAD DE MÉXICO , MÉXICO" VIT32="BOULEVARD ABCABC ABCAB ABCABCA , SIN NUMERO COLONIA ABCAB AB ABCABC , 11560 , DELEGACIÓN ABCABC ABCABCA , CIUDAD DE MÉXICO , MÉXICO" VIT4=" 5500000555/1234. FOLIO ABCA-11560/P/P-A/1234. A.D. ABCABCABCA ABCABCAB No. 123456/ADQS./EMPRESA/1234." VIT5=" 17A55060" VIT6=" XXXXXXX YYYYYYYYY, S.A." VIT7="0000025409"/>
+			<empresa:ETENTREG>
+				<empresa:ENTREG Calle="CALLE 12 34 LOREM IPSUM LOREM" Cod_Postal="11560" Colonia="COLONIA LOREM IP IPSUM" Estado="CIUDAD DE MÉXICO" Municipio="DELEGACIÓN CUAUHTÉMOC" Pais="MÉXICO" comodin6="LOR EM IPSUM LOREMI PSUMLO"/>
+			</empresa:ETENTREG>
+			<empresa:ETINFCONCEP>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+			</empresa:ETINFCONCEP>
+			<empresa:spaceLocationAdenda esquemaLocation="http://b1-soft.com/addenda/empresa http://b1-soft.com/addenda/empresa/addempresa.xsd" nameSpace="http://b1-soft.com/addenda/empresa" prefijoAdenda="empresa"/>
+		</empresa:ADENDAS>
+	</cfdi:Addenda>
+</cfdi:Comprobante>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:catCFDI="http://www.sat.gob.mx/sitio_internet/cfd/catalogos" xmlns:catPagos="http://www.sat.gob.mx/sitio_internet/cfd/catalogos/Pagos" xmlns:tdCFDI="http://www.sat.gob.mx/sitio_internet/cfd/tipoDatos/tdCFDI" xmlns:empresa="http://b1-soft.com/addenda/empresa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="MIIFzDCCA7SgAwIBAgIUMjAwMDEwMDAwMDAzMDAwMjI3NjMwDQYJKoZIhvcNAQELBQAwggFmMSAwHgYDVQQDDBdBLkMuIDIgZGUgcHJ1ZWJhcyg0MDk2KTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSkwJwYJKoZIhvcNAQkBFhphc2lzbmV0QHBydWViYXMuc2F0LmdvYi5teDEmMCQGA1UECQwdQXYuIEhpZGFsZ28gNzcsIENvbC4gR3VlcnJlcm8xDjAMBgNVBBEMBTA2MzAwMQswCQYDVQQGEwJNWDEZMBcGA1UECAwQRGlzdHJpdG8gRmVkZXJhbDESMBAGA1UEBwwJQ295b2Fjw6FuMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxITAfBgkqhkiG9w0BCQIMElJlc3BvbnNhYmxlOiBBQ0RNQTAeFw0xNjEwMjEyMDU0MDFaFw0yMDEwMjEyMDU0MDFaMIG4MRwwGgYDVQQDExNJTk1PQiBFRE1BIFNBIERFIENWMRwwGgYDVQQpExNJTk1PQiBFRE1BIFNBIERFIENWMRwwGgYDVQQKExNJTk1PQiBFRE1BIFNBIERFIENWMSUwIwYDVQQtExxUTUU5NjA3MDlMUjIgLyBIRUdUNzYxMDAzNFMyMR4wHAYDVQQFExUgLyBIRUdUNzYxMDAzTURGUk5OMDkxFTATBgNVBAsUDFBydWViYXNfQ0ZESTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJgqZ+ezJyeJXACMK8ehFp64ecAl8jfYKB4xMJy0RRb+qXKRewxtLojiTFECWdCx283tEkdHUj8bLzsCfFAMnsP2G4CS2aE2/1LLCHoZpdImaasLX1YJL2bUzxKQKi+RlL63M49yyfvGBjEgG7f6TMwVSUSbgDFpYAFHqx4LK+p2GVHuUUzoiIm8xRYaW1YPMa457be5W8wsjw0nGRLfo8hRIjPHedkwtcqYPj57xsPXMfxWP45vOlW7GuLkMq/ECccHxJiPitiThcDFKlf/mAR0kaux9LTffvWilA2uQAlyVyNVjqfdpvDdq4ycTaoIMYKrv/9R31dQ0AmdXT8cfbcCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQELBQADggIBAF5kwvyBUp7Ad99DktzEhrJwnMQyhA79sVc4Ns2SpLON/cV244ZnG5hgXk2awKbHEiSj/ke7EhgEpGS818ERsj7eW/wRgugBZraVn48GOn6qX0uV9EjwWEGK5uT6IDN25igeXxVJHP3hn40fX2BPqsaqRP49YMxcOWD7mhWRh2E6BnoKYjgHVJbavUN6pjCBLmy4hKwfitbjqtUiiWOmBDvvmLFpEGXG8OXn2xladBUkfC4sfgMBpVZVuEV7RqAgCSCZ2xo6UEyd4KKpTjbdp0Tj5gw+NmiovAZHwU/NPRojN95f/ibj7268LBr2DcO5rlmr7szwJ3dtwu86N7HkUxW3vo3qGHTVK2HRBArda9VN4pEyIL0Qt46ci5rFYXB2cCWU8XAh8gaZnxJoNTSY4A4yMJG9UfM/2rHC+YvOouIZ2kJZ2h+SwKOYGJOX749P/QeF4Z/L/ODs3E08bV7IQna1ZHmd6ydYhZVpheMgNoNnIG6jdzfyuo8NZAIIW/JGmPTANPCwTSHqBY1lmnp/oZNrkxGWtGhbltRfBoFQfTqCZALm6fsVeQqHQ6a7W45FJ2RD1nltPSdniMo3Iz/t4eHCjFvM3aORvA9oJEPr5ZzzBV2fQOXkyS8QdsSVb5ZmJG+FqZKKlsiaX6xhqK6gqTLyJN+7/yr9T/ZZ4M7VrRoL" CondicionesDePago="VENCIMIENTO 20 DÍAS" Fecha="2018-04-04T09:51:29" FormaPago="99" LugarExpedicion="04500" MetodoPago="PPD" Moneda="MXN" NoCertificado="20001000000300022760" Sello="Qk+9gXqXVIMcAyncTaWbZh9C23rzTwIqLK6TxS/qTBrc5SxjdlTHhceB8YlfoDY8XRQ3Y7am8DBm9D0w7riTqJKaNGtqA22r+Y8OENI/hWQ4ChtayBjhgdSxG5BMKZldVUVFNgtxooLrvq45J13qxEFnuj87FdkVUw9SNJVLbml34c0MTLF9NleEzG3neMQLSOhxnNsqzMirBrf00SMBiejV88FNMUTRSTlFeq/y+NV8gIrSlUgBj8w63xL/a/AzVDiQ5R/0eCJiKPzoSDpK+hay0LvSB3lL/s70tZ5G47LpmnnRftBYpnNjSqfeK4bmFINKFofzS1qT56gLT6nHQw==" Serie="FA" SubTotal="496854.00" TipoCambio="1" TipoDeComprobante="I" Total="576350.64" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+	<cfdi:Emisor Nombre="Nombre de Emisor" RegimenFiscal="601" Rfc="TME960709LR2"/>
+	<cfdi:Receptor Nombre="Nombre de Receptor" Rfc="AAA010101AAA" UsoCFDI="P01"/>
+	<cfdi:Conceptos>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="SUB-PARTIDA. 10.67 PARCHE VASCULAR SINTETICO" Importe="7616.00" Unidad="PZA" ValorUnitario="7616.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="7616.00" Importe="1218.56" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="SUB-PARTIDA. 10.71 CANULA FEMORAL ARTERIAL O VENOSA" Importe="7843.00" Unidad="PZA" ValorUnitario="7843.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="7843.00" Importe="1254.88" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="SUB-PARTIDA. 9.10 PROSTATECTOMIA RADICAL." Importe="21316.00" Unidad="N/A" ValorUnitario="21316.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="21316.00" Importe="3410.56" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="2.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="SUB-PARTIDA. 9.24 LAPAROSCOPÍA UROLÓGICA." Importe="188906.00" Unidad="N/A" ValorUnitario="94453.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="188906.00" Importe="30224.96" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="SUB-PARTIDA. 9.17 NEFROLITOTOMÍA PERCUTANEA." Importe="10160.00" Unidad="N/A" ValorUnitario="10160.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="10160.00" Importe="1625.60" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="SUB-PARTIDA. 10.2 PROTECTOR DE PIEL TIPO SENSICARE APLICADOR 3ML" Importe="59.00" Unidad="PZA" ValorUnitario="59.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="59.00" Importe="9.44" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="SUB-PARTIDA. 10.64 UNA ENGRAPADORA LINEAL CORTANTE 75MM" Importe="7358.00" Unidad="PZA" ValorUnitario="7358.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="7358.00" Importe="1177.28" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="SUB-PARTIDA. 9.6 CIRUGIA ABIERTA PÉLVICA Y RETROPÚBICA." Importe="24224.00" Unidad="N/A" ValorUnitario="24224.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="24224.00" Importe="3875.84" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="14.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="SUB-PARTIDA. 10.77 KIT PARA CIRUGIA DE HIDRODISECCION.EQUIPO DE DISECCIÓN MEDIANTE CHORRO DE AGUA QUE MINIMICE LA PERDIDA DE SANGRE, CON GENERACIÓN DE PRESIÓN, CON AJUSTE DE PRESIÓN, SUCCIÓN, CON PARAMETROS AJUSTABLES SEGUN INDICACION ESPECIFICA, SISTEMA SENCILLO.MANEJABLE Y FACIL DE USAR. RESULTADOS DE DISECCION CON CALIDAD REPRODUCIBLE, CON POSIBILIDAD DE MODIFICAR EL AJUSTE DURANTE LA ACTIVACIÓN.EFECTOS DE HIDRODISECCIÓN SUBDIVIDIDOS EN NIVELES FINAMENTE DOSIFICABLES.MEMORIA PARA 9 PROGRAMAS DIFERENTES.CON POSIBILIDAD DE COMBINACIÓN CON SISTEMA DE ARGON.NO DAÑA TÉRMICAMENTE LOS BORDES DE CORTE; EL TEJIDO CIRCUNDANTE PERMANECE INTACTO. CHORRO DE AGUA PERMANECE SIEMPRE CONSTANTE,CON EFECTOS SUMAMENTE FINOS,PRECISOS Y REPRODUCIBLES.SUCCIÓNINTEGRADA CON FUNCIÓN SIMULTÁNEA, REGULABLE INDIVIDUALMENTE.INTERRUPTOR DE PEDAL CON FUNCIÓN REMODE.EQUIPO DE HIDROOISECCIÓN DE LA MISMA MARCA QUE EQUIPO DE ELECTROCIRUGIAS POR ALTA FRECUENCIA; TRANSFERENCIA DATOS POR MEDIO DE BUS DE COMUNICACIÓN ECB." Importe="228466.00" Unidad="PZA" ValorUnitario="16319.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="228466.00" Importe="36554.56" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="6.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="SUB-PARTIDA. 10.164 FIJADOR PARA SONDA PLEURAL, CON DOS FILAMENTOS DE NYLON PARA SUJETAR LOS TUBOS EN MATERIAL TRANSPIRABLE E HIPOALERGÉNICO, AUTO ADHERIBLE LIBRE DE LÁTEX CON ALMOHADILLA IMPREGNADA CON SOLUCIÓN PARA PROTEGER LA PIEL." Importe="906.00" Unidad="PZA" ValorUnitario="151.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="906.00" Importe="144.96" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos TotalImpuestosRetenidos="0.00" TotalImpuestosTrasladados="79496.64">
+		<cfdi:Retenciones>
+			<cfdi:Retencion Importe="0.00" Impuesto="002"/>
+		</cfdi:Retenciones>
+		<cfdi:Traslados>
+			<cfdi:Traslado Importe="79496.64" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/timbrefiscaldigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="24D3B64E-AD33-4690-BF0A-BC3517365666" FechaTimbrado="2018-04-04T10:13:51" RfcProvCertif="STB080508339" SelloCFD="Qk+9gXqXVIMcAyncTaWbZh9C23rzTwIqLK6TxS/qTBrc5SxjdlTHhceB8YlfoDY8XRQ3Y7am8DBm9D0w7riTqJKaNGtqA22r+Y8OENI/hWQ4ChtayBjhgdSxG5BMKZldVUVFNgtxooLrvq45J13qxEFnuj87FdkVUw9SNJVLbml34c0MTLF9NleEzG3neMQLSOhxnNsqzMirBrf00SMBiejV88FNMUTRSTlFeq/y+NV8gIrSlUgBj8w63xL/a/AzVDiQ5R/0eCJiKPzoSDpK+hay0LvSB3lL/s70tZ5G47LpmnnRftBYpnNjSqfeK4bmFINKFofzS1qT56gLT6nHQw==" SelloSAT="I8BkAsQzKIJv2qQz1eEMERLZQYt5YLS1Uxdn86cWuUJ2hFIJg3f/rT5UH6//+e4S+thZ49QhKn/Rfbr0tiPzbhkZyRTw+gzvBqOtMkFazHA7ukGCqr+QWt+htseoE6vz7MtIL2Xjft7WgRVW5CIFY23MqRcAZ4KLmY3W0N0WvZILjUQX2+0e3Ns6N8bt3O2KrQIH3sXkDNsOMHXmpt7H9jqaiFR7L3nH2Bba64X8SE/pVNcUjPkifOVVOpsvTNl/xWgQwtjQVKqeU5ypm0JgTIuIp2pTmA6idQeduCKVpd++GBvLJ7Qk/cwLgMrWrBNmvl7AiYoJTlcVi1qpIeXehw==" NoCertificadoSAT="20001000000300022323" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/></cfdi:Complemento><cfdi:Addenda>
+		<empresa:ADENDAS>
+			<empresa:PACIENTE VIT1="0000644703" VIT13=" ABASTECIMIENTO DE CONSUMIBLES, AAAAAAAA, BBBBBBBBBBBB Y CCCCCCCCCCCC DDDDDDDDDD, EEEE FF GGGGGGGGGGG HH IIIIIIII JJJJJJJJJJJJJJ KKKKKKKKKKK LL MMMMMMM" VIT2="0000442204" VIT27="0090040680" VIT28="ANEXOA" VIT29="XXXXXX XXXXXXXX XXXXXX XXXXXXXXXX^^Z-1234567" VIT3=" PROCEDIMIENTOS Y COMPLEMENTOS CORRESPONDIENTES AL PERIODO DEL 22 AL 28 DE DICIEMBRE DE 2017" VIT31="BOULEVARD ABCABC ABCA ABCABCAB , COL. ABCABCAB ABC ABCABCAB AB ABC ABCAB , 11560 , , CIUDAD DE MÉXICO , MÉXICO" VIT32="BOULEVARD ABCABC ABCAB ABCABCA , SIN NUMERO COLONIA ABCAB AB ABCABC , 11560 , DELEGACIÓN ABCABC ABCABCA , CIUDAD DE MÉXICO , MÉXICO" VIT4=" 5500000555/1234. FOLIO ABCA-11560/P/P-A/1234. A.D. ABCABCABCA ABCABCAB No. 123456/ADQS./EMPRESA/1234." VIT5=" 1765459" VIT6=" XXXXXXX YYYYYYYYY, S.A."/>
+			<empresa:ETENTREG>
+				<empresa:ENTREG/>
+			</empresa:ETENTREG>
+			<empresa:ETINFCONCEP>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+			</empresa:ETINFCONCEP>
+			<empresa:spaceLocationAdenda esquemaLocation="http://b1-soft.com/addenda/empresa http://b1-soft.com/addenda/empresa/addempresa.xsd" nameSpace="http://b1-soft.com/addenda/empresa" prefijoAdenda="empresa"/>
+		</empresa:ADENDAS>
+	</cfdi:Addenda>
+</cfdi:Comprobante>

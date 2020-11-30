@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:catCFDI="http://www.sat.gob.mx/sitio_internet/cfd/catalogos" xmlns:catPagos="http://www.sat.gob.mx/sitio_internet/cfd/catalogos/Pagos" xmlns:tdCFDI="http://www.sat.gob.mx/sitio_internet/cfd/tipoDatos/tdCFDI" xmlns:empresa="http://b1-soft.com/addenda/empresa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="MIIFzDCCA7SgAwIBAgIUMjAwMDEwMDAwMDAzMDAwMjI3NjMwDQYJKoZIhvcNAQELBQAwggFmMSAwHgYDVQQDDBdBLkMuIDIgZGUgcHJ1ZWJhcyg0MDk2KTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSkwJwYJKoZIhvcNAQkBFhphc2lzbmV0QHBydWViYXMuc2F0LmdvYi5teDEmMCQGA1UECQwdQXYuIEhpZGFsZ28gNzcsIENvbC4gR3VlcnJlcm8xDjAMBgNVBBEMBTA2MzAwMQswCQYDVQQGEwJNWDEZMBcGA1UECAwQRGlzdHJpdG8gRmVkZXJhbDESMBAGA1UEBwwJQ295b2Fjw6FuMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxITAfBgkqhkiG9w0BCQIMElJlc3BvbnNhYmxlOiBBQ0RNQTAeFw0xNjEwMjEyMDU0MDFaFw0yMDEwMjEyMDU0MDFaMIG4MRwwGgYDVQQDExNJTk1PQiBFRE1BIFNBIERFIENWMRwwGgYDVQQpExNJTk1PQiBFRE1BIFNBIERFIENWMRwwGgYDVQQKExNJTk1PQiBFRE1BIFNBIERFIENWMSUwIwYDVQQtExxUTUU5NjA3MDlMUjIgLyBIRUdUNzYxMDAzNFMyMR4wHAYDVQQFExUgLyBIRUdUNzYxMDAzTURGUk5OMDkxFTATBgNVBAsUDFBydWViYXNfQ0ZESTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJgqZ+ezJyeJXACMK8ehFp64ecAl8jfYKB4xMJy0RRb+qXKRewxtLojiTFECWdCx283tEkdHUj8bLzsCfFAMnsP2G4CS2aE2/1LLCHoZpdImaasLX1YJL2bUzxKQKi+RlL63M49yyfvGBjEgG7f6TMwVSUSbgDFpYAFHqx4LK+p2GVHuUUzoiIm8xRYaW1YPMa457be5W8wsjw0nGRLfo8hRIjPHedkwtcqYPj57xsPXMfxWP45vOlW7GuLkMq/ECccHxJiPitiThcDFKlf/mAR0kaux9LTffvWilA2uQAlyVyNVjqfdpvDdq4ycTaoIMYKrv/9R31dQ0AmdXT8cfbcCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQELBQADggIBAF5kwvyBUp7Ad99DktzEhrJwnMQyhA79sVc4Ns2SpLON/cV244ZnG5hgXk2awKbHEiSj/ke7EhgEpGS818ERsj7eW/wRgugBZraVn48GOn6qX0uV9EjwWEGK5uT6IDN25igeXxVJHP3hn40fX2BPqsaqRP49YMxcOWD7mhWRh2E6BnoKYjgHVJbavUN6pjCBLmy4hKwfitbjqtUiiWOmBDvvmLFpEGXG8OXn2xladBUkfC4sfgMBpVZVuEV7RqAgCSCZ2xo6UEyd4KKpTjbdp0Tj5gw+NmiovAZHwU/NPRojN95f/ibj7268LBr2DcO5rlmr7szwJ3dtwu86N7HkUxW3vo3qGHTVK2HRBArda9VN4pEyIL0Qt46ci5rFYXB2cCWU8XAh8gaZnxJoNTSY4A4yMJG9UfM/2rHC+YvOouIZ2kJZ2h+SwKOYGJOX749P/QeF4Z/L/ODs3E08bV7IQna1ZHmd6ydYhZVpheMgNoNnIG6jdzfyuo8NZAIIW/JGmPTANPCwTSHqBY1lmnp/oZNrkxGWtGhbltRfBoFQfTqCZALm6fsVeQqHQ6a7W45FJ2RD1nltPSdniMo3Iz/t4eHCjFvM3aORvA9oJEPr5ZzzBV2fQOXkyS8QdsSVb5ZmJG+FqZKKlsiaX6xhqK6gqTLyJN+7/yr9T/ZZ4M7VrRoL" CondicionesDePago="VENCIMIENTO 30 DÍAS" Fecha="2018-05-23T17:46:04" Folio="17143" FormaPago="99" LugarExpedicion="04500" MetodoPago="PPD" Moneda="MXN" NoCertificado="00001000000403955577" Sello="jc2zNb0ySkv31320btdf4ZC9t291TGwE+KZhAgidPHxCQ8vp+Kb1jUiAdXAO3dFff579cQbVfo+PbEXWBxrZxI1WaW6gWOJe8tsjx0USweNb7C19SeBzEV/V2WTSG7/D57Rt/B9hAR2jrppqyA/niJ9OJ66jj4+jmyiALSmdi0qgMMzd4bUsJ7yEY5GEtrjRTzEub4ebBv/WKcFc8ScNhUlZenySexAlIOk9wN2GjcwB37z6qgMniiyXpUPFkMsrEhCBaraWFY0c42kpJRpTqBnikc7lwnR6qwLZMwyy6O/cd4sIja3EGCi2qe8KSn2BgtevRDbRx/bdSDpcma72JA==" Serie="FA" SubTotal="209242.50" TipoCambio="1" TipoDeComprobante="I" Total="242721.30" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+	<cfdi:Emisor Nombre="Nombre de Emisor" RegimenFiscal="601" Rfc="TME960709LR2"/>
+	<cfdi:Receptor Nombre="Nombre de Receptor" Rfc="AAA010101AAA" UsoCFDI="P01"/>
+	<cfdi:Conceptos>
+		<cfdi:Concepto Cantidad="16.000" ClaveProdServ="42221604" ClaveUnidad="H87" Descripcion="Partida 3. LN180034-25401143847 CONECTOR DE PLASTICO TRANSPARENTE DESECHABLE ESTERIL EN EMPAQUE UNICO PARA CEC 1/4 X 1/4. MARCA empresa." Importe="1260.00" NoIdentificacion="16250" Unidad="PZA" ValorUnitario="78.75">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1260.00" Importe="201.60" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="3.000" ClaveProdServ="42221604" ClaveUnidad="H87" Descripcion="Partida 3. LN180034-25401143847 CONECTOR DE PLASTICO TRANSPARENTE DESECHABLE ESTERIL EN EMPAQUE UNICO PARA CEC 1/4 X 1/4.MARCA empresa." Importe="236.25" NoIdentificacion="16250" Unidad="PZA" ValorUnitario="78.75">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="236.25" Importe="37.80" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="21.000" ClaveProdServ="42221604" ClaveUnidad="H87" Descripcion="Partida 3. LN180034-25401143847 CONECTOR DE PLASTICO TRANSPARENTE DESECHABLE ESTERIL EN EMPAQUE UNICO PARA CEC 1/4 X 1/4. MARCA empresa." Importe="1653.75" NoIdentificacion="16250" Unidad="PZA" ValorUnitario="78.75">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1653.75" Importe="264.60" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="60.000" ClaveProdServ="42221604" ClaveUnidad="H87" Descripcion="Partida 5. LN180034-25401141400 CONECTOR DE PLASTICO TRANSPARENTE DESECHABLE ESTERIL EN EMPAQUE UNICO DE 3/8 X 3/8.PIEZA. MARCA empresa." Importe="4725.00" NoIdentificacion="16280" Unidad="PZA" ValorUnitario="78.75">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="4725.00" Importe="756.00" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="25.000" ClaveProdServ="42221604" ClaveUnidad="H87" Descripcion="Partida 4. LN180034-25401141399 CONECTOR DE PLASTICO TRANSPARENTE DESECHABLE ESTERIL EN EMPAQUE UNICO DE 3/8 X 1/4. PIEZA. MARCA empresa." Importe="1968.75" NoIdentificacion="16460" Unidad="PZA" ValorUnitario="78.75">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1968.75" Importe="315.00" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="15.000" ClaveProdServ="42221604" ClaveUnidad="H87" Descripcion="Partida 4. LN180034-25401141399 CONECTOR DE PLASTICO TRANSPARENTE DESECHABLE ESTERIL EN EMPAQUE UNICO DE 3/8 X 1/4. PIEZA. MARCA empresa." Importe="1181.25" NoIdentificacion="16460" Unidad="PZA" ValorUnitario="78.75">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1181.25" Importe="189.00" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="34.000" ClaveProdServ="42221604" ClaveUnidad="H87" Descripcion="PARTIDA 7. LN180034-25401141403 CONECTOR EN &quot;Y&quot; 1/4 X 1/4 DE PLASTICO TRANSPARENTE, PARA ASPIRADOR NO ESTERIL. MARCA empresa." Importe="2677.50" NoIdentificacion="16550" Unidad="PZA" ValorUnitario="78.75">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="2677.50" Importe="428.40" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="9.000" ClaveProdServ="42221604" ClaveUnidad="H87" Descripcion="Partida 2. LN180034-25401141398 CONECTOR DE PLASTICO TRANSPARENTE DESECHABLE ESTERIL EN EMPAQUE UNICO 3/8 X 3/8 CON LUER. MARCA empresa." Importe="708.75" NoIdentificacion="16980" Unidad="PZA" ValorUnitario="78.75">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="708.75" Importe="113.40" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="20.000" ClaveProdServ="42221604" ClaveUnidad="H87" Descripcion="Partida 2. LN180034-25401141398 CONECTOR DE PLASTICO TRANSPARENTE DESECHABLE ESTERIL EN EMPAQUE UNICO 3/8 X 3/8 CON LUER. MARCA empresa." Importe="1575.00" NoIdentificacion="16980" Unidad="PZA" ValorUnitario="78.75">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1575.00" Importe="252.00" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="30.000" ClaveProdServ="42221604" ClaveUnidad="H87" Descripcion="Partida 2. LN180034-25401141398 CONECTOR DE PLASTICO TRANSPARENTE DESECHABLE ESTERIL EN EMPAQUE UNICO 3/8 X 3/8 CON LUER. MARCA empresa." Importe="2362.50" NoIdentificacion="16980" Unidad="PZA" ValorUnitario="78.75">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="2362.50" Importe="378.00" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="66.000" ClaveProdServ="42221604" ClaveUnidad="H87" Descripcion="Partida 2. LN180034-25401141398 CONECTOR DE PLASTICO TRANSPARENTE DESECHABLE ESTERIL EN EMPAQUE UNICO 3/8 X 3/8 CON LUER. MARCA empresa." Importe="5197.50" NoIdentificacion="16980" Unidad="PZA" ValorUnitario="78.75">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="5197.50" Importe="831.60" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="25.000" ClaveProdServ="42221604" ClaveUnidad="H87" Descripcion="Partida 2. LN180034-25401141398 CONECTOR DE PLASTICO TRANSPARENTE DESECHABLE ESTERIL EN EMPAQUE UNICO 3/8 X 3/8 CON LUER. MARCA empresa." Importe="1968.75" NoIdentificacion="16980" Unidad="PZA" ValorUnitario="78.75">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1968.75" Importe="315.00" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="60.000" ClaveProdServ="42221600" ClaveUnidad="H87" Descripcion="Partida 11. LN180034-25401100877 EQUIPO PARA CIRCULACION EXTRACORPOREA ADULTO. MARCA empresa." Importe="77112.00" NoIdentificacion="30420" Unidad="PZA" ValorUnitario="1285.20">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="77112.00" Importe="12337.92" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="30.000" ClaveProdServ="42221600" ClaveUnidad="H87" Descripcion="Partida 11. LN180034-25401100877 EQUIPO PARA CIRCULACION EXTRACORPOREA ADULTO. MARCA empresa." Importe="38556.00" NoIdentificacion="30420" Unidad="PZA" ValorUnitario="1285.20">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="38556.00" Importe="6168.96" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="10.000" ClaveProdServ="42221600" ClaveUnidad="H87" Descripcion="Partida 12. LN180034-25401138010 EQUIPO DE TUBO PARA CIRCULACION EXTRACORPOREA TAMAÑO PEDIATRICA. MARCA empresa." Importe="12852.00" NoIdentificacion="30440" Unidad="PZA" ValorUnitario="1285.20">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="12852.00" Importe="2056.32" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="30.000" ClaveProdServ="42221600" ClaveUnidad="H87" Descripcion="Partida 9. LN180034-25401100879 EQUIPO CIRCULACION EXTRACORPOREA LACTANTE. MARCA empresa." Importe="46933.50" NoIdentificacion="30460" Unidad="PZA" ValorUnitario="1564.45">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="46933.50" Importe="7509.36" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="2.000" ClaveProdServ="42221600" ClaveUnidad="H87" Descripcion="Partida 10. LN180034-25401100876 EQUIPO NEONATAL CIRCULACION EXTRACORPOREA. MARCA empresa." Importe="3309.60" NoIdentificacion="30470" Unidad="PZA" ValorUnitario="1654.80">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="3309.60" Importe="529.54" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="3.000" ClaveProdServ="42221600" ClaveUnidad="H87" Descripcion="Partida 10. LN180034-25401100876 EQUIPO NEONATAL CIRCULACION EXTRACORPOREA. MARCA empresa." Importe="4964.40" NoIdentificacion="30470" Unidad="PZA" ValorUnitario="1654.80">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="4964.40" Importe="794.30" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos TotalImpuestosTrasladados="33478.80">
+		<cfdi:Traslados>
+			<cfdi:Traslado Importe="33478.80" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/timbrefiscaldigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="9EA04967-52E8-46CA-B526-B817F8E65DD3" FechaTimbrado="2018-05-23T17:46:32" RfcProvCertif="STB080508339" SelloCFD="jc2zNb0ySkv31320btdf4ZC9t291TGwE+KZhAgidPHxCQ8vp+Kb1jUiAdXAO3dFff579cQbVfo+PbEXWBxrZxI1WaW6gWOJe8tsjx0USweNb7C19SeBzEV/V2WTSG7/D57Rt/B9hAR2jrppqyA/niJ9OJ66jj4+jmyiALSmdi0qgMMzd4bUsJ7yEY5GEtrjRTzEub4ebBv/WKcFc8ScNhUlZenySexAlIOk9wN2GjcwB37z6qgMniiyXpUPFkMsrEhCBaraWFY0c42kpJRpTqBnikc7lwnR6qwLZMwyy6O/cd4sIja3EGCi2qe8KSn2BgtevRDbRx/bdSDpcma72JA==" SelloSAT="FjipOg18zg/X9IR0wm0TbaIvmU7q9BrUCg4O8qhwnNR1/ekKjiWEbMMe4xGr+UzJqUZjutZaX+dS83MJwk1d+pDxXbDEX5K2GCphNYIheF0epuzcIQ3J24Sc+8nNV4FeLA7j/Re4+PmYYz9TT3kSgMiM9TMeuxfbU54TWa3K4GLoZEzzuQOHO9WYC9UoN4AvfOX3uMQjvfsyryREi7RbbL4pnG3Jhv+j3Abt3t7v4BBHtWSsQ8JkBXuSU4OYCu5RO7fGQzeoLC6/EpcFU6wEkELBmV0XtWrGMnahWTiez8mfwEvCK+YElDsW08ZEHTFs7XSs0oGRK7IhB2OeAr7Ijg==" NoCertificadoSAT="00001000000404341938" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/></cfdi:Complemento><cfdi:Addenda>
+		<empresa:ADENDAS>
+			<empresa:PACIENTE VIT13=" ABASTECIMIENTO DE CONSUMIBLES, AAAAAAAA, BBBBBBBBBBBB Y CCCCCCCCCCCC DDDDDDDDDD, EEEE FF GGGGGGGGGGG HH IIIIIIII JJJJJJJJJJJJJJ KKKKKKKKKKK LL MMMMMMM" VIT27="0090046585" VIT31="BOULEVARD ABCABC ABCA ABCABCAB , COL. ABCABCAB ABC ABCABCAB AB ABC ABCAB , 11560 , , CIUDAD DE MÉXICO , MÉXICO" VIT32="BOULEVARD ABCABC ABCAB ABCABCA , SIN NUMERO COLONIA ABCAB AB ABCABC , 11560 , DELEGACIÓN ABCABC ABCABCA , CIUDAD DE MÉXICO , MÉXICO" VIT4=" 5500000555/1234. FOLIO ABCA-11560/P/P-A/1234. A.D. ABCABCABCA ABCABCAB No. 123456/ADQS./EMPRESA/1234." VIT5=" 1887701" VIT6=" XXXXXXX YYYYYYYYY, S.A."/>
+			<empresa:ETENTREG>
+				<empresa:ENTREG Calle="CALLE 12 34 LOREM IPSUM LOREM" Cod_Postal="11560" Estado="DISTRITO FEDERAL" Municipio="DELEGACIÓN TLALPAN" Pais="MÉXICO" comodin6="LOR EM IPSUM LOREMI PSUMLO"/>
+			</empresa:ETENTREG>
+			<empresa:ETINFCONCEP>
+				<empresa:INFCONCEP Orden_de_venta="16250-5F-01 CAD 06/2018"/>
+				<empresa:INFCONCEP Orden_de_venta="16250-5H-02 CAD 08/2018"/>
+				<empresa:INFCONCEP Orden_de_venta="16250-6J-02 CAD 10/2019"/>
+				<empresa:INFCONCEP Orden_de_venta="16280-5J-01 CAD 10/2019"/>
+				<empresa:INFCONCEP Orden_de_venta="16460-6K-04 CAD 11/2019"/>
+				<empresa:INFCONCEP Orden_de_venta="16460-7A-01 CAD 01/2020"/>
+				<empresa:INFCONCEP Orden_de_venta="16550-7D-02 CAD 04/2020"/>
+				<empresa:INFCONCEP Orden_de_venta="16980-5H-02 CAD 08/2018"/>
+				<empresa:INFCONCEP Orden_de_venta="16980-5H-03 CAD 08/2018"/>
+				<empresa:INFCONCEP Orden_de_venta="16980-6C-01 CAD 03/2019"/>
+				<empresa:INFCONCEP Orden_de_venta="16980-6J-02 CAD 10/2019"/>
+				<empresa:INFCONCEP Orden_de_venta="16980-7E-02 CAD 05/2020"/>
+				<empresa:INFCONCEP Orden_de_venta="30420-8A-01 CAD 01/2021"/>
+				<empresa:INFCONCEP Orden_de_venta="30420-8A-02 CAD 01/2021"/>
+				<empresa:INFCONCEP Orden_de_venta="30440-7I-03 CAD 09/2020"/>
+				<empresa:INFCONCEP Orden_de_venta="30460-7I-04 CAD 09/2020"/>
+				<empresa:INFCONCEP Orden_de_venta="30470-7F-06 CAD 06/2020"/>
+				<empresa:INFCONCEP Orden_de_venta="30470-7K-07 CAD 11/2020"/>
+			</empresa:ETINFCONCEP>
+			<empresa:spaceLocationAdenda esquemaLocation="http://b1-soft.com/addenda/empresa http://b1-soft.com/addenda/empresa/addempresa.xsd" nameSpace="http://b1-soft.com/addenda/empresa" prefijoAdenda="empresa"/>
+		</empresa:ADENDAS>
+	</cfdi:Addenda>
+</cfdi:Comprobante>

@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:catCFDI="http://www.sat.gob.mx/sitio_internet/cfd/catalogos" xmlns:catPagos="http://www.sat.gob.mx/sitio_internet/cfd/catalogos/Pagos" xmlns:tdCFDI="http://www.sat.gob.mx/sitio_internet/cfd/tipoDatos/tdCFDI" xmlns:empresa="http://b1-soft.com/addenda/empresa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="MIIFzDCCA7SgAwIBAgIUMjAwMDEwMDAwMDAzMDAwMjI3NjMwDQYJKoZIhvcNAQELBQAwggFmMSAwHgYDVQQDDBdBLkMuIDIgZGUgcHJ1ZWJhcyg0MDk2KTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSkwJwYJKoZIhvcNAQkBFhphc2lzbmV0QHBydWViYXMuc2F0LmdvYi5teDEmMCQGA1UECQwdQXYuIEhpZGFsZ28gNzcsIENvbC4gR3VlcnJlcm8xDjAMBgNVBBEMBTA2MzAwMQswCQYDVQQGEwJNWDEZMBcGA1UECAwQRGlzdHJpdG8gRmVkZXJhbDESMBAGA1UEBwwJQ295b2Fjw6FuMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxITAfBgkqhkiG9w0BCQIMElJlc3BvbnNhYmxlOiBBQ0RNQTAeFw0xNjEwMjEyMDU0MDFaFw0yMDEwMjEyMDU0MDFaMIG4MRwwGgYDVQQDExNJTk1PQiBFRE1BIFNBIERFIENWMRwwGgYDVQQpExNJTk1PQiBFRE1BIFNBIERFIENWMRwwGgYDVQQKExNJTk1PQiBFRE1BIFNBIERFIENWMSUwIwYDVQQtExxUTUU5NjA3MDlMUjIgLyBIRUdUNzYxMDAzNFMyMR4wHAYDVQQFExUgLyBIRUdUNzYxMDAzTURGUk5OMDkxFTATBgNVBAsUDFBydWViYXNfQ0ZESTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJgqZ+ezJyeJXACMK8ehFp64ecAl8jfYKB4xMJy0RRb+qXKRewxtLojiTFECWdCx283tEkdHUj8bLzsCfFAMnsP2G4CS2aE2/1LLCHoZpdImaasLX1YJL2bUzxKQKi+RlL63M49yyfvGBjEgG7f6TMwVSUSbgDFpYAFHqx4LK+p2GVHuUUzoiIm8xRYaW1YPMa457be5W8wsjw0nGRLfo8hRIjPHedkwtcqYPj57xsPXMfxWP45vOlW7GuLkMq/ECccHxJiPitiThcDFKlf/mAR0kaux9LTffvWilA2uQAlyVyNVjqfdpvDdq4ycTaoIMYKrv/9R31dQ0AmdXT8cfbcCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQELBQADggIBAF5kwvyBUp7Ad99DktzEhrJwnMQyhA79sVc4Ns2SpLON/cV244ZnG5hgXk2awKbHEiSj/ke7EhgEpGS818ERsj7eW/wRgugBZraVn48GOn6qX0uV9EjwWEGK5uT6IDN25igeXxVJHP3hn40fX2BPqsaqRP49YMxcOWD7mhWRh2E6BnoKYjgHVJbavUN6pjCBLmy4hKwfitbjqtUiiWOmBDvvmLFpEGXG8OXn2xladBUkfC4sfgMBpVZVuEV7RqAgCSCZ2xo6UEyd4KKpTjbdp0Tj5gw+NmiovAZHwU/NPRojN95f/ibj7268LBr2DcO5rlmr7szwJ3dtwu86N7HkUxW3vo3qGHTVK2HRBArda9VN4pEyIL0Qt46ci5rFYXB2cCWU8XAh8gaZnxJoNTSY4A4yMJG9UfM/2rHC+YvOouIZ2kJZ2h+SwKOYGJOX749P/QeF4Z/L/ODs3E08bV7IQna1ZHmd6ydYhZVpheMgNoNnIG6jdzfyuo8NZAIIW/JGmPTANPCwTSHqBY1lmnp/oZNrkxGWtGhbltRfBoFQfTqCZALm6fsVeQqHQ6a7W45FJ2RD1nltPSdniMo3Iz/t4eHCjFvM3aORvA9oJEPr5ZzzBV2fQOXkyS8QdsSVb5ZmJG+FqZKKlsiaX6xhqK6gqTLyJN+7/yr9T/ZZ4M7VrRoL" CondicionesDePago="VENCIMIENTO 30 DÍAS" Fecha="2018-03-01T17:09:02" Folio="20915" FormaPago="99" LugarExpedicion="04500" MetodoPago="PPD" Moneda="MXN" NoCertificado="00001000000403955669" Sello="c+TqjIK9Fz9eN8F9GeXoJNMB9fKGpkg9/AYcUGUeTzin/p6gA1EwRw9D5pflL4gLAEBoPEyVobuD+kJgO0EQgg2isfVsW6v3IzS7pS2uCo/FUOWgznDaI71fGg+9t3rmYhJaDmnyOPP629YBcIDtJ4RINKUm3OzibmDClWrr6yEhQ6nFMTmjzEjoykA5aLJSWQkr3o/NXAxAM9lKDZVIRpjyfkS3L1yVRbc5rIDKOubovf4Nf0mNcAKgWgMMJwwA9apQe2nGUT4LwWuXLXv5N5MQBe5pKQgK9KdzUwXO0x93a/+YF5QnUjmNleXnkk+jwd7J7S4Zk97WAbenuP54sw==" Serie="FA" SubTotal="16473101.00" TipoCambio="1" TipoDeComprobante="I" Total="19108797.16" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+	<cfdi:Emisor Nombre="Nombre de Emisor" RegimenFiscal="601" Rfc="TME960709LR2"/>
+	<cfdi:Receptor Nombre="Nombre de Receptor" Rfc="AAA010101AAA" UsoCFDI="P01"/>
+	<cfdi:Conceptos>
+		<cfdi:Concepto Cantidad="6.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="TRANSDUCTOR DE PRESION" Importe="4956.00" NoIdentificacion="60.01.937" Unidad="PZA" ValorUnitario="826.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="4956.00" Importe="792.96" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="6.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="EXTRACTOR DE TROMBOS INTRACORONARIOS" Importe="153360.00" NoIdentificacion="60.01.921" Unidad="N/A" ValorUnitario="25560.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="153360.00" Importe="24537.60" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="2.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="STENT NO MEDICADO DIFERENTES DIÁMETROS Y MEDIDAS" Importe="30074.00" NoIdentificacion="60.01.956" Unidad="PZA" ValorUnitario="15037.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="30074.00" Importe="4811.84" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="9.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="PROCEDIMIENTO DE CATETERISMO DIAGNOSTICO ADULTO" Importe="75069.00" NoIdentificacion="60.01.001" Unidad="N/A" ValorUnitario="8341.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="75069.00" Importe="12011.04" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="50.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="PROCEDIMIENTO DE CATETERISMO DIAGNOSTICO POR TECNICA RADIAL" Importe="458350.00" NoIdentificacion="60.01.003" Unidad="N/A" ValorUnitario="9167.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="458350.00" Importe="73336.00" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="85.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="PROCEDIMIENTO DE ACTP (ANGIOPLASTIA) CON BALON" Importe="2277150.00" NoIdentificacion="60.01.005" Unidad="N/A" ValorUnitario="26790.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="2277150.00" Importe="364344.00" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="PROCEDIMIENTO PARA COARTACION AORTICA CON BALON" Importe="27348.00" NoIdentificacion="60.01.007" Unidad="N/A" ValorUnitario="27348.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="27348.00" Importe="4375.68" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="PROCEDIMIENTO PARA CIERRE DE DEFECTOS SEPTALES" Importe="149311.00" NoIdentificacion="60.01.010" Unidad="N/A" ValorUnitario="149311.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="149311.00" Importe="23889.76" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="2.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="PROCEDIMIENTO DE VALVULOPLASTÍA AHORTICO PULMONAR" Importe="49608.00" NoIdentificacion="60.01.014" Unidad="N/A" ValorUnitario="24804.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="49608.00" Importe="7937.28" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="6.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="PROCEDIMIENTO PARA COLOCACIÓN DE MARCAPASOS TEMPORAL" Importe="17424.00" NoIdentificacion="60.01.018" Unidad="N/A" ValorUnitario="2904.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="17424.00" Importe="2787.84" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="76.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="BALONES DE ANGIOPLASTIA DE ALTA PRESION NO COMPLACIENTE" Importe="787056.00" NoIdentificacion="60.01.906" Unidad="PZA" ValorUnitario="10356.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="787056.00" Importe="125928.96" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="7.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="CATETER PARA ULTRASONIDO INTRACORONARIO" Importe="166719.00" NoIdentificacion="60.01.916" Unidad="PZA" ValorUnitario="23817.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="166719.00" Importe="26675.04" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="31.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="DISPOSITIVO HEMOSTÁTICO PARA CIERRE VASCULAR A BASE DE COLÁGENO" Importe="190867.00" NoIdentificacion="60.01.919" Unidad="PZA" ValorUnitario="6157.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="190867.00" Importe="30538.72" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="INTRODUCTOR LARGO O MULLINS 6, 7 FR X 23, 45, 63 CM LONGITUD" Importe="3504.00" NoIdentificacion="60.01.929" Unidad="PZA" ValorUnitario="3504.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="3504.00" Importe="560.64" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="12.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="BALON CORONARIO CON ATEROTOMOS, MEDIDAS 2.0 A 4.0 MM DE DIÁMETRO Y DE 6, 10, 15 MM DE LONGITUD" Importe="191208.00" NoIdentificacion="60.01.903" Unidad="PZA" ValorUnitario="15934.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="191208.00" Importe="30593.28" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="2.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="CATETER CON LAZO Y/O CANASTILLA DE DIVERSAS MEDIDAS PARA EXTRACCIÓN DE CUERPO EXTRAÑO" Importe="32530.00" NoIdentificacion="60.01.908" Unidad="PZA" ValorUnitario="16265.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="32530.00" Importe="5204.80" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="281.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="PROTESIS ENDOVASCULAR CORONARIA (STENT MEDICADO) CON REVESTIMIENTO DE EVEROLIMUS, PACLITAXEL EN PLATINO CROMO, ZOTAROLIMUS, EVEROLIMUS EN CROMO COBALTO Y/O BIOLIMUS DE ACERO INOXIDABLE EN DIVERSAS MEDIDAS" Importe="10513615.00" NoIdentificacion="60.01.934" Unidad="PZA" ValorUnitario="37415.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="10513615.00" Importe="1682178.40" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="JERINGA PARA ANGIOCARDIOGRAFÍA DE 100 A 150 ML DE CAPACIDAD" Importe="534.00" NoIdentificacion="60.01.940" Unidad="PZA" ValorUnitario="534.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="534.00" Importe="85.44" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="5.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="MICROCATETER CORONARIO PARA OCLUSIONES CRÓNICAS" Importe="81140.00" NoIdentificacion="60.01.930" Unidad="PZA" ValorUnitario="16228.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="81140.00" Importe="12982.40" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="STENT CUBIERTO CON MICROMALLA DE PET. MEDIDAS DE 2.0 MM A 4.0 MM DE DIÁMETRO Y DE 12 MM A 39 MM DE LONGITUD" Importe="34494.00" NoIdentificacion="60.01.936" Unidad="PZA" ValorUnitario="34494.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="34494.00" Importe="5519.04" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="19.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="JERINGA PARA SISTEMA DE INYECCION DE MEDIO DE CONTRASTE POR FLUJO VARIABLE" Importe="32908.00" NoIdentificacion="60.01.952" Unidad="PZA" ValorUnitario="1732.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="32908.00" Importe="5265.28" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="57.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="KIT PARA ADMINISTRACION DE SOLUCIÓN SALINA Y MEDIO DE CONTRASTE POR FLUJO VARIABLE" Importe="49362.00" NoIdentificacion="60.01.953" Unidad="PZA" ValorUnitario="866.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="49362.00" Importe="7897.92" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="99.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="CONTROLADOR MANUAL ESTÉRIL PARA SISTEMA DE INYECCIÓN DE SOLUCIÓN SALINA Y MEDIO DE CONTRASTE CON FLUJO VARIABLE" Importe="110286.00" NoIdentificacion="60.01.954" Unidad="PZA" ValorUnitario="1114.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="110286.00" Importe="17645.76" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="16.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="DISPOSITIVO PARA CIERRE VASCULAR CON SUTURA INTRAVASCULAR DE MONOFILAMENTO DE POLIPROPILENO" Importe="82880.00" NoIdentificacion="60.01.983" Unidad="PZA" ValorUnitario="5180.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="82880.00" Importe="13260.80" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="PAQUETE UNIVERSAL DE ROPA" Importe="954.00" NoIdentificacion="60.01.942" Unidad="PZA" ValorUnitario="954.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="954.00" Importe="152.64" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="56.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="BANDA DE COMPRESION RADIAL" Importe="171304.00" NoIdentificacion="60.01.1005" Unidad="PZA" ValorUnitario="3059.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="171304.00" Importe="27408.64" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="5.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="GUIA PARA ANGIOPLASTIA DE ALTO GRAMAJE" Importe="19215.00" NoIdentificacion="60.01.998" Unidad="PZA" ValorUnitario="3843.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="19215.00" Importe="3074.40" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="351.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="MEDIO DE CONTRASTE HIDROSOLUBLES NO IÓNICO EN CONCENTRACIÓN DE 350 A 370 MG/ML, IOVERSOL, IOPAMIDOL, IOHEXOL, IOPROMIDA, LOBITRIDOL. FRASCO CON 100 ML O IÓNICO DE BAJA OSMOLARIDAD, IOXAGLATO DE SODIO Y MEGLUMINA, CONCENTRACIÓN 320MG/ML, PRESENTACIÓN 100ML." Importe="215514.00" NoIdentificacion="60.01.993" Unidad="PZA" ValorUnitario="614.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="215514.00" Importe="34482.24" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="141.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="BOLSA ESTÉRIL PARA TUBO DE FLUOROSCOPIO." Importe="31161.00" NoIdentificacion="60.01.992" Unidad="PZA" ValorUnitario="221.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="31161.00" Importe="4985.76" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="BALON PERIFERICO INFRAPOPLITEO COMPATIBLE CON CUERDA GUIA 0.014, DISEÑO CÓNICO Y CUATRO MARCAS RADIOPACAS, LOGITUD DE 210 MM, DIFERENTES DIÁMETROS" Importe="20752.00" NoIdentificacion="60.01.912" Unidad="PZA" ValorUnitario="20752.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="20752.00" Importe="3320.32" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="18.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="JERINGAS DE PLÁSTICO PARA INSUFLAR EL GLOBO DE CATETER DE DILATACIÓN DE ARTERIAS CORONARIAS PARA MANTENER Y MEDIR LA PRESIÓN" Importe="28134.00" NoIdentificacion="60.01.958" Unidad="PZA" ValorUnitario="1563.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="28134.00" Importe="4501.44" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="5.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="EXTENSIÓN COAXIAL DE RÁPIDO INTERCAMBIO DE CATÉTER GUIA CORONARIO" Importe="48140.00" NoIdentificacion="60.01.965" Unidad="PZA" ValorUnitario="9628.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="48140.00" Importe="7702.40" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="CATETER DIAGNOSTICO PARA LA MEDICION SIMULTANEA DE 2 PRESIONES, CURVA PIGTAIL O MP" Importe="4175.00" NoIdentificacion="60.01.977" Unidad="PZA" ValorUnitario="4175.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="4175.00" Importe="668.00" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="96.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="CUERDA GUIA RECUBIERTA DE POLITETRAFLUORETILENO PARA CATETER PUNTA EN J Y RECTA DE 3 MM, DIAMETRO 0.014 A 0.035 LONGITUD 150 A 260 CM" Importe="31296.00" NoIdentificacion="60.01.987" Unidad="PZA" ValorUnitario="326.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="31296.00" Importe="5007.36" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="2.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="STENT CUBIERTO CORONARIO" Importe="101454.00" NoIdentificacion="60.01.994" Unidad="PZA" ValorUnitario="50727.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="101454.00" Importe="16232.64" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="35.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="KIT ANGIOGRAFICO CON MANIFOLD DE TRES VIAS; LINEA DE MEDIO DE CONTRASTE, LINEA DE FLUSH Y LINEA DE MONITOREO DE PRESIÓN." Importe="11900.00" NoIdentificacion="60.01.987" Unidad="PZA" ValorUnitario="340.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="11900.00" Importe="1904.00" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="49.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="CATÉTER PARA CATETERIZACIÓN DE ARTERIA CORONARIA PARA TÉCNICA RADIAL" Importe="99862.00" NoIdentificacion="60.01.1004" Unidad="PZA" ValorUnitario="2038.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="99862.00" Importe="15977.92" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="ELECTRODO PARA MARCAPASO TEMPORAL BIPOLAR ENDOCARDICO" Importe="1844.00" NoIdentificacion="60.01.988" Unidad="PZA" ValorUnitario="1844.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1844.00" Importe="295.04" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="28.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="INTRODUCTOR DE CATÉTER ARTERIAL O VENOSO. POR TÉCNICA PERCUTÁNEA, LONGITUD 5 A 14CM CALIBRE. 4, 5, 6, 7 Ú 8FR" Importe="18116.00" NoIdentificacion="60.01.982" Unidad="PZA" ValorUnitario="647.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="18116.00" Importe="2898.56" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="7.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="CUERDA GUÍA HIDROFILICA 0.018 A 0.035 DE 150 CM Y 260 CM DE LONGITUD." Importe="29197.00" NoIdentificacion="60.01.983" Unidad="PZA" ValorUnitario="4171.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="29197.00" Importe="4671.52" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="11.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="INTRODUCTOR HIDROFILICO RADIAL" Importe="35255.00" NoIdentificacion="60.01.1003" Unidad="PZA" ValorUnitario="3205.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="35255.00" Importe="5640.80" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="80.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="CATÉTER PARA CATETERIZACIÓN DE ARTERIA CORONARIA DERECHA E IZQUIERDA, CON TÉCNICA PERCUTÁNEA, ASA DE 3.5, 4 Y 5, CAL 5 Ó 6 FR., LONGITUD 100 A 110 CM. TIPO: JUDKINS, AMPLATZ 1 Y 2. MULTIPROPÓSITOS, MAMARIOS." Importe="63360.00" NoIdentificacion="60.01.984" Unidad="PZA" ValorUnitario="792.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="63360.00" Importe="10137.60" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="CATETER PARA ANGIOGRAFIA Y ARTERIOGRAFIA POR TECNICA PERCUTANEA, DE POLITETRAFLUORETILENO, ALTO FLUJO RECTO Ó ANGULADO A 145 GRADOS. TIPO: PIGTAIL. LONGITUD. 110 CM CALIBRE 5 Ó 6 FR." Importe="286.00" NoIdentificacion="60.01.991" Unidad="PZA" ValorUnitario="286.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="286.00" Importe="45.76" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="3.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="AGUJA PARA PUNCIÓN DE VASOS ARTERIALES Y VENOSOS, DE UNA SOLA PIEZA, PARED DELGADA Y BISEL CORTO, LONGITUD 7.0 CM CALIBRE. 18 G PARA GUÍA DE 0.032&quot; A 0.038&quot;" Importe="837.00" NoIdentificacion="60.01.981" Unidad="PZA" ValorUnitario="279.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="837.00" Importe="133.92" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="26.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="CATÉTER PARA ANGIOGRAFÍA Y ARTERIOGRAFÍA POR TÉCNICA PERCUTÁNEA. DE POLITETRAFLUORETILENO, ALTO FLUJO ANGULADO A 145 GRADOS. TIPO: PIGTAIL. LONGITUD 110 CM CALIBRE 6 FR., ASA 3.5 A 5.0." Importe="20592.00" NoIdentificacion="60.01.986" Unidad="PZA" ValorUnitario="792.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="20592.00" Importe="3294.72" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos TotalImpuestosRetenidos="0.00" TotalImpuestosTrasladados="2635696.16">
+		<cfdi:Traslados>
+			<cfdi:Traslado Importe="2635696.16" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/timbrefiscaldigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="B247658E-67B6-4154-A80D-DF3291A07EB2" FechaTimbrado="2018-03-01T17:12:16" RfcProvCertif="STB080508339" SelloCFD="c+TqjIK9Fz9eN8F9GeXoJNMB9fKGpkg9/AYcUGUeTzin/p6gA1EwRw9D5pflL4gLAEBoPEyVobuD+kJgO0EQgg2isfVsW6v3IzS7pS2uCo/FUOWgznDaI71fGg+9t3rmYhJaDmnyOPP629YBcIDtJ4RINKUm3OzibmDClWrr6yEhQ6nFMTmjzEjoykA5aLJSWQkr3o/NXAxAM9lKDZVIRpjyfkS3L1yVRbc5rIDKOubovf4Nf0mNcAKgWgMMJwwA9apQe2nGUT4LwWuXLXv5N5MQBe5pKQgK9KdzUwXO0x93a/+YF5QnUjmNleXnkk+jwd7J7S4Zk97WAbenuP54sw==" SelloSAT="GCPDYgmDT2qTup8TOjBK1KH7MLsxhmUSuu0b8J26pZMBs4rN3Zu+YO5GbNpa9mmsbiK7qFMy1CQ4Ux0yE+C7fiButC4Zl0WzOmruw6bonJ1poLV2YBpvZKqbw6YqysLMWWTbi+4pOJQYgSDZ9EFRFRuabH7taecYCBAFn+pdRAzRug3+SiexztegoD7cjO7yNvw2EhnsT+qE7G8QT6an7U+6MPU7Ww4MVeQ13lBWSEKrSvvJi6GKgiPvwlDQPe2vknAAVqelzGmwCMOfg9PHpsL3MmYBn1x/41R9T1rFefgmPnss2517Hb4xHMkhdALN39flb6wVuJvb0kV6nIWU8w==" NoCertificadoSAT="00001000000404341938" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/></cfdi:Complemento><cfdi:Addenda>
+		<empresa:ADENDAS>
+			<empresa:PACIENTE VIT1="0080920941" VIT12="Esta factura equivale a 1694 procedimientos quirúrgicos" VIT2="0000517500" VIT27="0090044914" VIT3=" PROCEDIMIENTOS CORRESPONDIENTES DEL 26 DE ENERO AL 25 FEBRERO DE 2018" VIT31="BOULEVARD ABCABC ABCA ABCABCAB , COL. ABCABCAB ABC ABCABCAB AB ABC ABCAB , 11560 , , CIUDAD DE MÉXICO , MÉXICO" VIT32="BOULEVARD ABCABC ABCAB ABCABCA , SIN NUMERO COLONIA ABCAB AB ABCABC , 11560 , DELEGACIÓN ABCABC ABCABCA , CIUDAD DE MÉXICO , MÉXICO" VIT4=" 5500000555/1234. FOLIO ABCA-11560/P/P-A/1234. A.D. ABCABCABCA ABCABCAB No. 123456/ADQS./EMPRESA/1234." VIT5=" 1884953" VIT6=" XXXXXXX YYYYYYYYY, S.A." VIT7="0000025409"/>
+			<empresa:ETENTREG>
+				<empresa:ENTREG Calle="CALLE 12 34 LOREM IPSUM LOREM" Cod_Postal="11560" Colonia="COLONIA LOREM IP IPSUM" Estado="SONORA" Pais="MÉXICO" comodin6="LOR EM IPSUM LOREMI PSUMLO"/>
+			</empresa:ETENTREG>
+			<empresa:ETINFCONCEP>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+			</empresa:ETINFCONCEP>
+			<empresa:spaceLocationAdenda esquemaLocation="http://b1-soft.com/addenda/empresa http://b1-soft.com/addenda/empresa/addempresa.xsd" nameSpace="http://b1-soft.com/addenda/empresa" prefijoAdenda="empresa"/>
+		</empresa:ADENDAS>
+	</cfdi:Addenda>
+</cfdi:Comprobante>

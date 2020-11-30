@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:catCFDI="http://www.sat.gob.mx/sitio_internet/cfd/catalogos" xmlns:catPagos="http://www.sat.gob.mx/sitio_internet/cfd/catalogos/Pagos" xmlns:tdCFDI="http://www.sat.gob.mx/sitio_internet/cfd/tipoDatos/tdCFDI" xmlns:empresa="http://b1-soft.com/addenda/empresa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="MIIFzDCCA7SgAwIBAgIUMjAwMDEwMDAwMDAzMDAwMjI3NjMwDQYJKoZIhvcNAQELBQAwggFmMSAwHgYDVQQDDBdBLkMuIDIgZGUgcHJ1ZWJhcyg0MDk2KTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSkwJwYJKoZIhvcNAQkBFhphc2lzbmV0QHBydWViYXMuc2F0LmdvYi5teDEmMCQGA1UECQwdQXYuIEhpZGFsZ28gNzcsIENvbC4gR3VlcnJlcm8xDjAMBgNVBBEMBTA2MzAwMQswCQYDVQQGEwJNWDEZMBcGA1UECAwQRGlzdHJpdG8gRmVkZXJhbDESMBAGA1UEBwwJQ295b2Fjw6FuMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxITAfBgkqhkiG9w0BCQIMElJlc3BvbnNhYmxlOiBBQ0RNQTAeFw0xNjEwMjEyMDU0MDFaFw0yMDEwMjEyMDU0MDFaMIG4MRwwGgYDVQQDExNJTk1PQiBFRE1BIFNBIERFIENWMRwwGgYDVQQpExNJTk1PQiBFRE1BIFNBIERFIENWMRwwGgYDVQQKExNJTk1PQiBFRE1BIFNBIERFIENWMSUwIwYDVQQtExxUTUU5NjA3MDlMUjIgLyBIRUdUNzYxMDAzNFMyMR4wHAYDVQQFExUgLyBIRUdUNzYxMDAzTURGUk5OMDkxFTATBgNVBAsUDFBydWViYXNfQ0ZESTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJgqZ+ezJyeJXACMK8ehFp64ecAl8jfYKB4xMJy0RRb+qXKRewxtLojiTFECWdCx283tEkdHUj8bLzsCfFAMnsP2G4CS2aE2/1LLCHoZpdImaasLX1YJL2bUzxKQKi+RlL63M49yyfvGBjEgG7f6TMwVSUSbgDFpYAFHqx4LK+p2GVHuUUzoiIm8xRYaW1YPMa457be5W8wsjw0nGRLfo8hRIjPHedkwtcqYPj57xsPXMfxWP45vOlW7GuLkMq/ECccHxJiPitiThcDFKlf/mAR0kaux9LTffvWilA2uQAlyVyNVjqfdpvDdq4ycTaoIMYKrv/9R31dQ0AmdXT8cfbcCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQELBQADggIBAF5kwvyBUp7Ad99DktzEhrJwnMQyhA79sVc4Ns2SpLON/cV244ZnG5hgXk2awKbHEiSj/ke7EhgEpGS818ERsj7eW/wRgugBZraVn48GOn6qX0uV9EjwWEGK5uT6IDN25igeXxVJHP3hn40fX2BPqsaqRP49YMxcOWD7mhWRh2E6BnoKYjgHVJbavUN6pjCBLmy4hKwfitbjqtUiiWOmBDvvmLFpEGXG8OXn2xladBUkfC4sfgMBpVZVuEV7RqAgCSCZ2xo6UEyd4KKpTjbdp0Tj5gw+NmiovAZHwU/NPRojN95f/ibj7268LBr2DcO5rlmr7szwJ3dtwu86N7HkUxW3vo3qGHTVK2HRBArda9VN4pEyIL0Qt46ci5rFYXB2cCWU8XAh8gaZnxJoNTSY4A4yMJG9UfM/2rHC+YvOouIZ2kJZ2h+SwKOYGJOX749P/QeF4Z/L/ODs3E08bV7IQna1ZHmd6ydYhZVpheMgNoNnIG6jdzfyuo8NZAIIW/JGmPTANPCwTSHqBY1lmnp/oZNrkxGWtGhbltRfBoFQfTqCZALm6fsVeQqHQ6a7W45FJ2RD1nltPSdniMo3Iz/t4eHCjFvM3aORvA9oJEPr5ZzzBV2fQOXkyS8QdsSVb5ZmJG+FqZKKlsiaX6xhqK6gqTLyJN+7/yr9T/ZZ4M7VrRoL" CondicionesDePago="VENCIMIENTO 20 DÍAS" Fecha="2018-04-04T09:46:19" FormaPago="99" LugarExpedicion="04500" MetodoPago="PPD" Moneda="MXN" NoCertificado="20001000000300022760" Sello="bMYNa1fmACcNcEAm+hfQhhhVzsViAYmpa8zBNW3JW5cFEHjmx6CjuT658HL0g0Vc25TIGa1OUZNogfpK/kYkdRKeQ56sxBaD6H28JlnbxVNEsPhhJSKtenkFW0HPTxKaj8WuQNuXi0Z8EDo2YtnTnFOp+CEfiGeLsWStQViiSss21yoJnG0C2WZMDWEVF4UPkUKNwlrS+7Dk43Gi/lVvEsrPP/VxnQWvoMu4O5pNIIZMh/7cIzx9CCh9/dYoAFgxbJLc1hCevVJSYMt5nXY9wM4K2eoiaiZDXRr1kIfT1NHEslDNNYCpFRn3szwqxWeDgbv4hGwZISJalCDwbPW39g==" Serie="FA" SubTotal="121881.00" TipoCambio="1" TipoDeComprobante="I" Total="141381.96" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+	<cfdi:Emisor Nombre="Nombre de Emisor" RegimenFiscal="601" Rfc="TME960709LR2"/>
+	<cfdi:Receptor Nombre="Nombre de Receptor" Rfc="AAA010101AAA" UsoCFDI="P01"/>
+	<cfdi:Conceptos>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="SUB-PARTIDA. 8.6 RINOSEPTUMPLASTÍA." Importe="10198.00" Unidad="N/A" ValorUnitario="10198.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="10198.00" Importe="1631.68" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="3.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="SUB-PARTIDA. 9.20 COLOCACIÓN DE CATETÉR J" Importe="38100.00" Unidad="N/A" ValorUnitario="12700.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="38100.00" Importe="6096.00" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="2.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="SUB-PARTIDA. 1.6 APENDICECTOMÍA LAPAROSCÓPICA." Importe="52506.00" Unidad="N/A" ValorUnitario="26253.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="52506.00" Importe="8400.96" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="2.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="SUB-PARTIDA. 10.51 SET DE CATETER URETERAL DOBLE &quot; J&quot;" Importe="8734.00" Unidad="PZA" ValorUnitario="4367.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="8734.00" Importe="1397.44" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="SUB-PARTIDA. 1.12 LAPAROSCOPÍA DIAGNOSTICA." Importe="7668.00" Unidad="N/A" ValorUnitario="7668.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="7668.00" Importe="1226.88" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="2.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="SUB-PARTIDA. 10.31 CUERDA GUIA CON RECUBRIMIENTO HIDROFILICO, DIÁMETRO 0.035&quot;,LONGITUD 150 A 260 CM. PUNTA RECTA O CURVA" Importe="3840.00" Unidad="PZA" ValorUnitario="1920.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="3840.00" Importe="614.40" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="SUB-PARTIDA. 10.155 SISTEMA DE IRRIGACIÓN / ASPIRACIÓN, CON MANGO TIPO TROMPETA Y CANULA DE 5 MM" Importe="835.00" Unidad="PZA" ValorUnitario="835.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="835.00" Importe="133.60" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos TotalImpuestosRetenidos="0.00" TotalImpuestosTrasladados="19500.96">
+		<cfdi:Retenciones>
+			<cfdi:Retencion Importe="0.00" Impuesto="002"/>
+		</cfdi:Retenciones>
+		<cfdi:Traslados>
+			<cfdi:Traslado Importe="19500.96" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/timbrefiscaldigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="14C34580-9441-428F-99B0-B627DD7B63B4" FechaTimbrado="2018-04-04T10:05:55" RfcProvCertif="STB080508339" SelloCFD="bMYNa1fmACcNcEAm+hfQhhhVzsViAYmpa8zBNW3JW5cFEHjmx6CjuT658HL0g0Vc25TIGa1OUZNogfpK/kYkdRKeQ56sxBaD6H28JlnbxVNEsPhhJSKtenkFW0HPTxKaj8WuQNuXi0Z8EDo2YtnTnFOp+CEfiGeLsWStQViiSss21yoJnG0C2WZMDWEVF4UPkUKNwlrS+7Dk43Gi/lVvEsrPP/VxnQWvoMu4O5pNIIZMh/7cIzx9CCh9/dYoAFgxbJLc1hCevVJSYMt5nXY9wM4K2eoiaiZDXRr1kIfT1NHEslDNNYCpFRn3szwqxWeDgbv4hGwZISJalCDwbPW39g==" SelloSAT="SM1MPx0nBuAV/N25y8oNA/Vd+ICJbOJYgc+kP2L6NRfLV3o72skC+TFdY3jR8oCUxJRMznkoaSA3q4IDdWrkhfDTTF38zNVOUjxEyHHDGSvhWA3+j5ZPaAMlzjMTc0vDs4DcNHYdxT92o6RgP9yW+0rucV/17j1lHqjTwDx4qYkDg7kscuyY0fkXbzcHuOZx7TyRZC1e53HIGuAmCX0ggQ7NO54Hkhv3gsfxcVOcoXyJK8CNsvZ4jh6FpmZb/BU+C6qcYoktiYjjbvwNeOf/ttwPrS8eIY4TuyRk1umWIsRkFHlioR3ao0WO0oMhNWsP6YqoPo4eAX97To3/XVpDeA==" NoCertificadoSAT="20001000000300022323" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/></cfdi:Complemento><cfdi:Addenda>
+		<empresa:ADENDAS>
+			<empresa:PACIENTE VIT1="0000641033" VIT13=" ABASTECIMIENTO DE CONSUMIBLES, AAAAAAAA, BBBBBBBBBBBB Y CCCCCCCCCCCC DDDDDDDDDD, EEEE FF GGGGGGGGGGG HH IIIIIIII JJJJJJJJJJJJJJ KKKKKKKKKKK LL MMMMMMM" VIT2="0000439344" VIT27="0090040677" VIT28="ANEXOA" VIT29="XXXXXX XXXXXXXX XXXXXX XXXXXXXXXX^^Z-1234567" VIT3=" PROCEDIMIENTOS Y COMPLEMENTOS CORRESPONDIENTES AL PERIODO DEL 22 AL 28 DE DICIEMBRE DE 2017" VIT31="BOULEVARD ABCABC ABCA ABCABCAB , COL. ABCABCAB ABC ABCABCAB AB ABC ABCAB , 11560 , , CIUDAD DE MÉXICO , MÉXICO" VIT32="BOULEVARD ABCABC ABCAB ABCABCA , SIN NUMERO COLONIA ABCAB AB ABCABC , 11560 , DELEGACIÓN ABCABC ABCABCA , CIUDAD DE MÉXICO , MÉXICO" VIT4=" 5500000555/1234. FOLIO ABCA-11560/P/P-A/1234. A.D. ABCABCABCA ABCABCAB No. 123456/ADQS./EMPRESA/1234." VIT5=" 1765459" VIT6=" XXXXXXX YYYYYYYYY, S.A."/>
+			<empresa:ETENTREG>
+				<empresa:ENTREG/>
+			</empresa:ETENTREG>
+			<empresa:ETINFCONCEP>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+			</empresa:ETINFCONCEP>
+			<empresa:spaceLocationAdenda esquemaLocation="http://b1-soft.com/addenda/empresa http://b1-soft.com/addenda/empresa/addempresa.xsd" nameSpace="http://b1-soft.com/addenda/empresa" prefijoAdenda="empresa"/>
+		</empresa:ADENDAS>
+	</cfdi:Addenda>
+</cfdi:Comprobante>

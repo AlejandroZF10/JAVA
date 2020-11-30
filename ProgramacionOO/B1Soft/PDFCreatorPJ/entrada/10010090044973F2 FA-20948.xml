@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:catCFDI="http://www.sat.gob.mx/sitio_internet/cfd/catalogos" xmlns:catPagos="http://www.sat.gob.mx/sitio_internet/cfd/catalogos/Pagos" xmlns:tdCFDI="http://www.sat.gob.mx/sitio_internet/cfd/tipoDatos/tdCFDI" xmlns:empresa="http://b1-soft.com/addenda/empresa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="MIIFzDCCA7SgAwIBAgIUMjAwMDEwMDAwMDAzMDAwMjI3NjMwDQYJKoZIhvcNAQELBQAwggFmMSAwHgYDVQQDDBdBLkMuIDIgZGUgcHJ1ZWJhcyg0MDk2KTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSkwJwYJKoZIhvcNAQkBFhphc2lzbmV0QHBydWViYXMuc2F0LmdvYi5teDEmMCQGA1UECQwdQXYuIEhpZGFsZ28gNzcsIENvbC4gR3VlcnJlcm8xDjAMBgNVBBEMBTA2MzAwMQswCQYDVQQGEwJNWDEZMBcGA1UECAwQRGlzdHJpdG8gRmVkZXJhbDESMBAGA1UEBwwJQ295b2Fjw6FuMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxITAfBgkqhkiG9w0BCQIMElJlc3BvbnNhYmxlOiBBQ0RNQTAeFw0xNjEwMjEyMDU0MDFaFw0yMDEwMjEyMDU0MDFaMIG4MRwwGgYDVQQDExNJTk1PQiBFRE1BIFNBIERFIENWMRwwGgYDVQQpExNJTk1PQiBFRE1BIFNBIERFIENWMRwwGgYDVQQKExNJTk1PQiBFRE1BIFNBIERFIENWMSUwIwYDVQQtExxUTUU5NjA3MDlMUjIgLyBIRUdUNzYxMDAzNFMyMR4wHAYDVQQFExUgLyBIRUdUNzYxMDAzTURGUk5OMDkxFTATBgNVBAsUDFBydWViYXNfQ0ZESTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJgqZ+ezJyeJXACMK8ehFp64ecAl8jfYKB4xMJy0RRb+qXKRewxtLojiTFECWdCx283tEkdHUj8bLzsCfFAMnsP2G4CS2aE2/1LLCHoZpdImaasLX1YJL2bUzxKQKi+RlL63M49yyfvGBjEgG7f6TMwVSUSbgDFpYAFHqx4LK+p2GVHuUUzoiIm8xRYaW1YPMa457be5W8wsjw0nGRLfo8hRIjPHedkwtcqYPj57xsPXMfxWP45vOlW7GuLkMq/ECccHxJiPitiThcDFKlf/mAR0kaux9LTffvWilA2uQAlyVyNVjqfdpvDdq4ycTaoIMYKrv/9R31dQ0AmdXT8cfbcCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQELBQADggIBAF5kwvyBUp7Ad99DktzEhrJwnMQyhA79sVc4Ns2SpLON/cV244ZnG5hgXk2awKbHEiSj/ke7EhgEpGS818ERsj7eW/wRgugBZraVn48GOn6qX0uV9EjwWEGK5uT6IDN25igeXxVJHP3hn40fX2BPqsaqRP49YMxcOWD7mhWRh2E6BnoKYjgHVJbavUN6pjCBLmy4hKwfitbjqtUiiWOmBDvvmLFpEGXG8OXn2xladBUkfC4sfgMBpVZVuEV7RqAgCSCZ2xo6UEyd4KKpTjbdp0Tj5gw+NmiovAZHwU/NPRojN95f/ibj7268LBr2DcO5rlmr7szwJ3dtwu86N7HkUxW3vo3qGHTVK2HRBArda9VN4pEyIL0Qt46ci5rFYXB2cCWU8XAh8gaZnxJoNTSY4A4yMJG9UfM/2rHC+YvOouIZ2kJZ2h+SwKOYGJOX749P/QeF4Z/L/ODs3E08bV7IQna1ZHmd6ydYhZVpheMgNoNnIG6jdzfyuo8NZAIIW/JGmPTANPCwTSHqBY1lmnp/oZNrkxGWtGhbltRfBoFQfTqCZALm6fsVeQqHQ6a7W45FJ2RD1nltPSdniMo3Iz/t4eHCjFvM3aORvA9oJEPr5ZzzBV2fQOXkyS8QdsSVb5ZmJG+FqZKKlsiaX6xhqK6gqTLyJN+7/yr9T/ZZ4M7VrRoL" CondicionesDePago="VENCIMIENTO 20 DÍAS" Fecha="2018-03-08T16:21:22" Folio="20948" FormaPago="99" LugarExpedicion="04500" MetodoPago="PPD" Moneda="MXN" NoCertificado="00001000000403955669" Sello="YNiIRWKW82Lut2iOEXwQsIRbx4mW/bNTYjmnkm3hbnZBUivd+cwmdMwUVrSYeuGaa/06CK4FgeNW+/fm045XQLoQ2Yu6UsJzUND2qoFx2NL7TLdime3DyT9a9mMAs9yY1BJ6HENuXit2hClIFXYwKBm4TFjtFrBv7uZp0IfxqvRUHQhQctYncTjdLFGSHxF8o2J/EcarUFyjInpd6RcuyxPgZL6idhVfr77aeE0gma8dwN4NC/qiCqIckQK+mxCCnZTDWP7NeMC3L1eLRyZyiRnHj55TKxHQ1OGwjcx5mPE/F64EMckE11+lPsOCUWYV25nuieiiWmRyejVHjpcsRg==" Serie="FA" SubTotal="703601.00" TipoCambio="1" TipoDeComprobante="I" Total="816177.16" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+	<cfdi:Emisor Nombre="Nombre de Emisor" RegimenFiscal="601" Rfc="TME960709LR2"/>
+	<cfdi:Receptor Nombre="Nombre de Receptor" Rfc="AAA010101AAA" UsoCFDI="G03"/>
+	<cfdi:Conceptos>
+		<cfdi:Concepto Cantidad="7.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="SUB-PARTIDA. 5.1 CIRUGÍA ONCOLÓGICA MENOR." Importe="58821.00" Unidad="N/A" ValorUnitario="8403.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="58821.00" Importe="9411.36" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="13.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="SUB-PARTIDA. 10.36 UN CARTUCHO PARA ENGRAPADORA LINEAL CORTANTE 75" Importe="38246.00" Unidad="PZA" ValorUnitario="2942.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="38246.00" Importe="6119.36" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="2.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="SUB-PARTIDA. 10.100 PINZA PARA SELLADO DE VASO, DIÁMETRO DE 5 MM, LONGITUD DE 35 A 45 CM (LIGASURE BLUNT-TIP)" Importe="33324.00" Unidad="PZA" ValorUnitario="16662.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="33324.00" Importe="5331.84" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="6.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="SUB-PARTIDA. 10.64 UNA ENGRAPADORA LINEAL CORTANTE 75MM" Importe="44148.00" Unidad="PZA" ValorUnitario="7358.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="44148.00" Importe="7063.68" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="2.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="SUB-PARTIDA. 10.7 BOLSA DE COLOSTOMIA DE UNA PIEZA MEDIDA DE ACUERDO AL PACIENTE" Importe="304.00" Unidad="PZA" ValorUnitario="152.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="304.00" Importe="48.64" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="3.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="SUB-PARTIDA. 10.107 PINZA DE ENERGIA ULTRASONICA PARA DISECCION (5MM) TIPO SUPERJAW" Importe="58002.00" Unidad="PZA" ValorUnitario="19334.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="58002.00" Importe="9280.32" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="3.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="SUB-PARTIDA. 10.150 CARTUCHO DE CLIPS DE POLIMERO YIPO HEMOLOC" Importe="2316.00" Unidad="PZA" ValorUnitario="772.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="2316.00" Importe="370.56" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="2.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="SUB-PARTIDA. 10.79 ENGRAPADORA CIRCULAR DE 29 O 31 O 33 ML" Importe="20928.00" Unidad="PZA" ValorUnitario="10464.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="20928.00" Importe="3348.48" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="SUB-PARTIDA. 10.89 ENGRAPADORA LINEAL CORTANTE TIPO VASCULAR" Importe="9900.00" Unidad="PZA" ValorUnitario="9900.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="9900.00" Importe="1584.00" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="6.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="SUB-PARTIDA. 10.45 CARTUCHO ENGRAPADORA LINEAL" Importe="21372.00" Unidad="PZA" ValorUnitario="3562.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="21372.00" Importe="3419.52" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="2.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="SUB-PARTIDA. 10.84 ENGRAPADORA CON CABEZA CURVA CORTANTE, CON 4 LINEAS DE GRAPAS CON LINEA DE TRANSECCION DE 40MM EN UN ESPACIO DE 30MM" Importe="22758.00" Unidad="PZA" ValorUnitario="11379.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="22758.00" Importe="3641.28" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="5.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="SUB-PARTIDA. 10.27 ENGRAPADORA PARA PIEL CON 35 GRAPAS METALICAS/ CON EXTRACTOR DE GRAPAS" Importe="6730.00" Unidad="PZA" ValorUnitario="1346.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="6730.00" Importe="1076.80" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="SUB-PARTIDA. 10.63 KIT PARA APLICACIÓN DE PRESIÓN NEGATIVA CONFILMS TRANSPARENTES , 1 SOFT PORT, BLOQUES DE ESPONJA PERFORADA O GASA UNA CAPA PROTECTORA DE ÓRGANOS" Importe="6543.00" Unidad="PZA" ValorUnitario="6543.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="6543.00" Importe="1046.88" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="SUB-PARTIDA. 10.58 UN KIT DE TERAPIA DE PRESIÓN NEGATIVA DE UN SOLO USO, CON UNA MINIBOMBA Y DOS APÓSITOS ADHESIVOS." Importe="5803.00" Unidad="PZA" ValorUnitario="5803.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="5803.00" Importe="928.48" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="SUB-PARTIDA. 10.86 HEMOSTATICO ABSORBIBLE DE ALMIDON  VEGETAL CON AGLUTINANTE DE POLISACARIDOS DE ALMIDON DE PAPA VIAL DE 3GR EN POLVO" Importe="11941.00" Unidad="PZA" ValorUnitario="11941.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="11941.00" Importe="1910.56" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="SUB-PARTIDA. 5.2 PERFUSIÓN HIPERTÉRMICA." Importe="72151.00" Unidad="N/A" ValorUnitario="72151.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="72151.00" Importe="11544.16" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="SUB-PARTIDA. 10.92 DISPOSITIVO DE ACCESO MANUAL A BASE DE GEL, PARA CIRUGIA MINIMAMENTE INVASIVA." Importe="13370.00" Unidad="PZA" ValorUnitario="13370.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="13370.00" Importe="2139.20" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="SUB-PARTIDA. 10.166 UN KIT DE GRAPAS O CLIPS HEMOSTÁTICOS" Importe="3003.00" Unidad="PZA" ValorUnitario="3003.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="3003.00" Importe="480.48" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="SUB-PARTIDA. 10.15 ELECTRODO DE PUNTA LARGA PARA CAUTERIO" Importe="350.00" Unidad="PZA" ValorUnitario="350.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="350.00" Importe="56.00" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="10.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="SUB-PARTIDA. 10.30 SET DE DRENAJE TIPO BLAKE QUE INCLUYE TUBO DE DRENAJE 15 Ó 19 FR Y RESERVORIO 300MM O 500" Importe="17470.00" Unidad="PZA" ValorUnitario="1747.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="17470.00" Importe="2795.20" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="SUB-PARTIDA. 5.7 CIRUGÍA DE MAMA." Importe="16822.00" Unidad="N/A" ValorUnitario="16822.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="16822.00" Importe="2691.52" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="3.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="SUB-PARTIDA. 5.9 CIRUGÍA ONCOLÓGICA MAYOR." Importe="128436.00" Unidad="N/A" ValorUnitario="42812.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="128436.00" Importe="20549.76" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="3.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="SUB-PARTIDA. 10.37 HEMOSTÁTICO ABSORBIBLE, DE CELULOSA OXIDADA REGENERADA, SURGICEL FIBRILAR, DE 10X10 CM." Importe="8838.00" Unidad="PZA" ValorUnitario="2946.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="8838.00" Importe="1414.08" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="SUB-PARTIDA. 10.136 APOSITO HIDROCOLOIDE TIPO DUODER DE 20 X 30" Importe="971.00" Unidad="PZA" ValorUnitario="971.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="971.00" Importe="155.36" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="2.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="SUB-PARTIDA. 10.161 SISTEMA DE RETRACCION PARA HERIDAS ALEXIS DE 11-17 CM" Importe="6626.00" Unidad="PZA" ValorUnitario="3313.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="6626.00" Importe="1060.16" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="4.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="SUB-PARTIDA. 10.163 SONDA DE DRENAJE PLEURAL" Importe="4976.00" Unidad="PZA" ValorUnitario="1244.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="4976.00" Importe="796.16" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="2.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="SUB-PARTIDA. 5.3 LAPAROSCOPÍA DIAGNOSTICA 2." Importe="19076.00" Unidad="N/A" ValorUnitario="9538.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="19076.00" Importe="3052.16" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="2.000" ClaveProdServ="85101501" ClaveUnidad="E48" Descripcion="SUB-PARTIDA. 5.4 CIRUGÍA ONCOLÓGICA LAPAROSCÓPICA." Importe="63746.00" Unidad="N/A" ValorUnitario="31873.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="63746.00" Importe="10199.36" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="1.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="SUB-PARTIDA. 10.60 APLICADOR DE CLIPS AUTOMATICO 5MM" Importe="6258.00" Unidad="PZA" ValorUnitario="6258.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="6258.00" Importe="1001.28" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto Cantidad="2.000" ClaveProdServ="42295100" ClaveUnidad="H87" Descripcion="SUB-PARTIDA. 10.144 AGUJA DE VERRES 120MM O 150MM" Importe="372.00" Unidad="PZA" ValorUnitario="186.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="372.00" Importe="59.52" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos TotalImpuestosRetenidos="0.00" TotalImpuestosTrasladados="112576.16">
+		<cfdi:Traslados>
+			<cfdi:Traslado Importe="112576.16" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/timbrefiscaldigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="E0499DE0-5548-4F79-A84B-CE0D0E89507A" FechaTimbrado="2018-03-08T16:22:46" RfcProvCertif="STB080508339" SelloCFD="YNiIRWKW82Lut2iOEXwQsIRbx4mW/bNTYjmnkm3hbnZBUivd+cwmdMwUVrSYeuGaa/06CK4FgeNW+/fm045XQLoQ2Yu6UsJzUND2qoFx2NL7TLdime3DyT9a9mMAs9yY1BJ6HENuXit2hClIFXYwKBm4TFjtFrBv7uZp0IfxqvRUHQhQctYncTjdLFGSHxF8o2J/EcarUFyjInpd6RcuyxPgZL6idhVfr77aeE0gma8dwN4NC/qiCqIckQK+mxCCnZTDWP7NeMC3L1eLRyZyiRnHj55TKxHQ1OGwjcx5mPE/F64EMckE11+lPsOCUWYV25nuieiiWmRyejVHjpcsRg==" SelloSAT="SiSf/70QJZ/plpGk8kI9dqAU9hX8/30jQR8h2Wgvg9wqmDeXbEMxNxB4UoONgh0qw2eKI4yk7yxplJMMzCTxrn5aSTYIIFsPseoiMYb6P/c5EGElvfHApbWkvFv3ZBdQlAjBGQ+wtXXCBrNbeFao42jFFMOPXqKAknv1ipsFNPRye6dp2I1dMg7AYH4bL7EkEBeQ8iKjZWB7E7hV1LAvA6AzG/oQ/rkTvKgeQbhTjkvSPgZagrqsRgNkE8vQv4jkE/foeor8J8viHNU4Lt4BYvw6CXdukYroIfX5zVcgp+DWVLBgWR43EKRlM3B8DLW6KVL//HGjAhgT5acuoUnVXQ==" NoCertificadoSAT="00001000000404341938" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/></cfdi:Complemento><cfdi:Addenda>
+		<empresa:ADENDAS>
+			<empresa:PACIENTE VIT13=" ABASTECIMIENTO DE CONSUMIBLES, AAAAAAAA, BBBBBBBBBBBB Y CCCCCCCCCCCC DDDDDDDDDD, EEEE FF GGGGGGGGGGG HH IIIIIIII JJJJJJJJJJJJJJ KKKKKKKKKKK LL MMMMMMM" VIT27="0090044973" VIT28="ANEXOA" VIT29="XXXXXX XXXXXXXX XXXXXX XXXXXXXXXX^^Z-1234567" VIT3=" PROCEDIMIENTOS Y COMPLEMENTOS CORRESPONDIENTES AL PERIODO DEL 22 AL 28 DE FEBRERO DE 2018" VIT31="BOULEVARD ABCABC ABCA ABCABCAB , COL. ABCABCAB ABC ABCABCAB AB ABC ABCAB , 11560 , , CIUDAD DE MÉXICO , MÉXICO" VIT32="BOULEVARD ABCABC ABCAB ABCABCA , SIN NUMERO COLONIA ABCAB AB ABCABC , 11560 , DELEGACIÓN ABCABC ABCABCA , CIUDAD DE MÉXICO , MÉXICO" VIT4=" 5500000555/1234. FOLIO ABCA-11560/P/P-A/1234. A.D. ABCABCABCA ABCABCAB No. 123456/ADQS./EMPRESA/1234."/>
+			<empresa:ETENTREG>
+				<empresa:ENTREG Calle="CALLE 12 34 LOREM IPSUM LOREM" Cod_Postal="11560" Colonia="COLONIA LOREM IP IPSUM" Estado="CIUDAD DE MÉXICO" Municipio="DELEGACION MIGUEL HIDALGO" Pais="MÉXICO" comodin6="LOR EM IPSUM LOREMI PSUMLO"/>
+			</empresa:ETENTREG>
+			<empresa:ETINFCONCEP>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+				<empresa:INFCONCEP/>
+			</empresa:ETINFCONCEP>
+			<empresa:spaceLocationAdenda esquemaLocation="http://b1-soft.com/addenda/empresa http://b1-soft.com/addenda/empresa/addempresa.xsd" nameSpace="http://b1-soft.com/addenda/empresa" prefijoAdenda="empresa"/>
+		</empresa:ADENDAS>
+	</cfdi:Addenda>
+</cfdi:Comprobante>
