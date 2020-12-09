@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="report name" pageWidth="595" pageHeight="842" columnWidth="535" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="cb91cd33-e3c0-47d3-a0ef-124e844e2fd6">
+	<property name="ireport.zoom" value="1.0"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<parameter name="id_ciudad" class="java.lang.Integer">
+		<defaultValueExpression><![CDATA[]]></defaultValueExpression>
+	</parameter>
+	<queryString>
+		<![CDATA[SELECT
+     estados.`idestado` AS estados_idestado,
+     estados.`nombre_estado` AS estados_nombre_estado,
+     ciudades.`nombre` AS ciudades_nombre,
+     ciudades.`idciudad` AS ciudades_idciudad
+FROM
+     `estados` estados INNER JOIN `ciudades` ciudades ON estados.`idestado` = ciudades.`idestado`
+WHERE 
+      ciudades.`idciudad` > $P{id_ciudad}	]]>
+	</queryString>
+	<field name="estados_idestado" class="java.lang.Integer"/>
+	<field name="estados_nombre_estado" class="java.lang.String"/>
+	<field name="ciudades_nombre" class="java.lang.String"/>
+	<field name="ciudades_idciudad" class="java.lang.Integer"/>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="44" splitType="Stretch"/>
+	</title>
+	<pageHeader>
+		<band splitType="Stretch"/>
+	</pageHeader>
+	<columnHeader>
+		<band height="23" splitType="Stretch">
+			<staticText>
+				<reportElement x="0" y="0" width="100" height="20" uuid="6b0a8798-866b-41e3-8097-750f94a45a5a"/>
+				<text><![CDATA[estados_idestado]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="120" y="0" width="100" height="20" uuid="75890718-a795-4cad-800d-80f3a13a53ca"/>
+				<text><![CDATA[estados_nombre_estado]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="280" y="0" width="100" height="20" uuid="a6d8dcb1-dd89-4067-81fb-3e0873d8d0c0"/>
+				<text><![CDATA[ciudades_nombre]]></text>
+			</staticText>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="27" splitType="Stretch">
+			<textField>
+				<reportElement x="0" y="0" width="100" height="20" uuid="2c76c8b7-dfea-4383-aaf3-9af7996d56ad"/>
+				<textFieldExpression><![CDATA[$F{estados_idestado}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="120" y="0" width="100" height="20" uuid="c8bbc4ce-12bf-4d1c-9200-f1419bea9a25"/>
+				<textFieldExpression><![CDATA[$F{estados_nombre_estado}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="277" y="0" width="100" height="20" uuid="fbe01fdb-f07d-420d-85cd-92a626ccb167"/>
+				<textFieldExpression><![CDATA[$F{ciudades_nombre}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="45" splitType="Stretch"/>
+	</columnFooter>
+	<pageFooter>
+		<band height="54" splitType="Stretch">
+			<textField>
+				<reportElement x="190" y="18" width="80" height="20" uuid="905e6834-1dd7-470c-b9d1-ee982b948074"/>
+				<textElement textAlignment="Right"/>
+				<textFieldExpression><![CDATA["Page "+$V{PAGE_NUMBER}+" of"]]></textFieldExpression>
+			</textField>
+			<textField evaluationTime="Report">
+				<reportElement x="280" y="18" width="40" height="20" uuid="84edf2e5-aae4-404a-a0ea-cc031a1f6fd8"/>
+				<textFieldExpression><![CDATA[" " + $V{PAGE_NUMBER}]]></textFieldExpression>
+			</textField>
+		</band>
+	</pageFooter>
+	<summary>
+		<band height="42" splitType="Stretch"/>
+	</summary>
+</jasperReport>
